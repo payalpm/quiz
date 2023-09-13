@@ -1,0 +1,41 @@
+- description: "General Knowledge section"
+  topic: "2-cg"
+  id: "ICAC1"
+  title: "ICAC RUH"
+  questions:
+    - text: "What will happen if you are caught cheating on the knowledge test?"
+      options:
+        - correct: true
+          value: "You will not be allowed to take another test for 6 weeks."
+        - correct: false
+          value: "You will never be allowed to take another test."
+        - correct: false
+          value: "Nothing, there is no penalty."
+
+- description: "General Knowledge section"
+  topic: "2-cg"
+  id: "ICAC2"
+  title: "ICAC RUH"
+  questions:
+    - text: "What will happen if you offer a testing officer a bribe to pass your driving test?"
+      options:
+        - correct: true
+          value: "Action will be taken against you. The penalties are severe and include fines and imprisonment."
+        - correct: false
+          value: "Only the testing officer will be investigated."
+        - correct: false
+          value: "Nothing, there is no penalty."
+
+- description: "General Knowledge section"
+  topic: "2-cg"
+  id: "ICAC3"
+  title: "ICAC RUH"
+  questions:
+    - text: "What will happen if a testing officer asks you for a bribe to pass your driving test and you give it to him or her?"
+      options:
+        - correct: true
+          value: "Action will be taken against all involved. The penalties are severe and include fines and imprisonment."
+        - correct: false
+          value: "Nothing, there is no penalty."
+        - correct: false
+          value: "Only the testing officer will be investigated."
