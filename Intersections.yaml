@@ -1,0 +1,610 @@
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN001"
+  text: "As you approach an intersection, you should check for traffic on your left and right -"
+  options:
+    - correct: true
+      value: "At all times before entering the intersection."
+    - correct: false
+      value: "Only when the traffic is heavy."
+    - correct: false
+      value: "Only when you approach a stop sign."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN003"
+  text: "When making a right-hand turn at the intersection shown, you must give way to -"
+  options:
+    - correct: true
+      value: "An oncoming vehicle going straight ahead or turning left and any vehicle on your right."
+    - correct: false
+      value: "A vehicle approaching from your left and intending to turn right."
+    - correct: false
+      value: "Only pedestrians."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN004"
+  text: "If turning right at a T-intersection (as shown) must you give way to vehicles approaching from both the left and right?"
+  options:
+    - correct: true
+      value: "Yes, whether they are turning or not."
+    - correct: false
+      value: "No, only the vehicle on the right."
+    - correct: false
+      value: "No, you have right of way."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN005"
+  text: "If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?"
+  options:
+    - correct: true
+      value: "Yes, it has the same meaning as the sign itself."
+    - correct: false
+      value: "No, but you must give way if turning."
+    - correct: false
+      value: "No, you only need to give way to the vehicle on your right."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN006"
+  text: "If turning at an intersection are you required to give way to pedestrians?"
+  options:
+    - correct: true
+      value: "Yes, a driver turning right or left must give way to pedestrians if there is a danger of a collision."
+    - correct: false
+      value: "Yes, only if turning left."
+    - correct: false
+      value: "Yes, only if turning right."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN007"
+  text: "When you come to an intersection and the road beyond is choked with vehicles going in the same direction, what should you do?"
+  options:
+    - correct: true
+      value: "Wait until there is room for you to completely cross the intersection."
+    - correct: false
+      value: "Proceed if there is no traffic on your right."
+    - correct: false
+      value: "Travel into the intersection and wait until traffic ahead moves."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN008"
+  text: "Right-turns must be made from which lanes when travelling on a laned roadway?"
+  options:
+    - correct: true
+      value: "The far right-hand lane or any other lane having an arrow pointing right."
+    - correct: false
+      value: "The lane carrying the least amount of traffic."
+    - correct: false
+      value: "The far left-hand lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN010"
+  text: "In this diagram both vehicles O and P must pass through GIVE WAY signs before entering the intersection. Which vehicle goes first?"
+  options:
+    - correct: true
+      value: "Vehicle P."
+    - correct: false
+      value: "Vehicle O."
+    - correct: false
+      value: "It depends on who moves first."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN011"
+  text: "Vehicle O is at a STOP sign -"
+  options:
+    - correct: true
+      value: "Vehicle O must give way to vehicles P, Q, and R."
+    - correct: false
+      value: "Vehicle O must give way only to vehicle R."
+    - correct: false
+      value: "All vehicles must give way to vehicle O."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN012"
+  text: "If both vehicles P and O in the diagram are turning right, which vehicle is in the best position to turn left into the street marked 'X'?"
+  options:
+    - correct: true
+      value: "Vehicle O."
+    - correct: false
+      value: "Vehicle P."
+    - correct: false
+      value: "Neither vehicle."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN013"
+  text: "The diagram shows a marked pedestrian crossing at an intersection. There is also a STOP sign at the intersection. You have already stopped for a pedestrian. Must you stop again at the STOP line?"
+  options:
+    - correct: true
+      value: "Yes, at all times."
+    - correct: false
+      value: "Yes, if there is traffic on your right only."
+    - correct: false
+      value: "No, if the intersection is clear."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN014"
+  text: "A GIVE WAY sign at an intersection means that you must -"
+  options:
+    - correct: true
+      value: "Be ready to stop and give way to all other traffic if there is danger of a collision."
+    - correct: false
+      value: "Stop completely at all times and have no right of way."
+    - correct: false
+      value: "Slow down and only give way to traffic on your right."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN016"
+  text: "Which vehicle in the diagram must give way?"
+  options:
+    - correct: true
+      value: "Vehicle J."
+    - correct: false
+      value: "Vehicle K."
+    - correct: false
+      value: "Vehicle L."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN018"
+  text: "You want to make a left turn. You must use your left-hand indicator -"
+  options:
+    - correct: true
+      value: "At all times."
+    - correct: false
+      value: "Only when there is traffic behind you."
+    - correct: false
+      value: "Only when arrows are marked on the roadway."
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN019"
+  text: "At the T-intersection shown in the diagram which vehicle should give way?"
+  options:
+    - correct: true
+      value: "Vehicle R."
+    - correct: false
+      value: "Vehicle Q."
+    - correct: false
+      value: "Whichever vehicle got there last."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN020"
+  text: "You wish to make a right-hand turn from a ONE WAY STREET with no arrows marked on the roadway. You should position your vehicle -"
+  options:
+    - correct: false
+      value: "On the right-hand side of the street."
+    - correct: false
+      value: "In the middle of the street."
+    - correct: true
+      value: "On the left-hand side of the street."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN023"
+  text: "When there are no arrows marked on the road, left turns must be made from -"
+  options:
+    - correct: true
+      value: "The far left-hand side of the road."
+    - correct: false
+      value: "The middle of the road."
+    - correct: true
+      value: "Either side of the road."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN026"
+  text: "What should you do on approaching a railway level crossing displaying a STOP sign?"
+  options:
+    - correct: true
+      value: "Stop at all times and proceed when safe to do so."
+    - correct: false
+      value: "Slow down to 10 km/h, then proceed through the crossing."
+    - correct: false
+      value: "Stop, only if a train is at the crossing."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN027"
+  text: "You are driving the car in the diagram. You must stop -"
+  options:
+    - correct: false
+      value: "Even when there is no other traffic."
+    - correct: false
+      value: "Only if there is a car on your right or left."
+    - correct: true
+      value: "Only if there is danger of a collision with another vehicle."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN028"
+  text: "If the boomgates are down and the signals are flashing, at a railway level crossing, you may begin to cross -"
+  options:
+    - correct: false
+      value: "Only when the gate is up and the lights stop flashing."
+    - correct: false
+      value: "If you cannot see a train approaching."
+    - correct: true
+      value: "If you can safely go around the closed gate."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN029"
+  text: "When approaching a railway level crossing displaying this sign, you must -"
+  options:
+    - correct: true
+      value: "Slow down, look both ways for trains and be prepared to stop if necessary."
+    - correct: false
+      value: "Increase your speed to avoid any approaching trains."
+    - correct: false
+      value: "Continue across at normal speed, do not slow down."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN030"
+  text: "Even if the signal at a railway level crossing does not indicate that a train is coming, you should -"
+  options:
+    - correct: true
+      value: "Slow down, be ready to stop and give way if there is danger of collision."
+    - correct: false
+      value: "Speed up and cross the tracks quickly."
+    - correct: false
+      value: "Stop completely at all times."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN034"
+  text: "You come to an intersection in Sydney with a Light Rail vehicle about to enter. What should you do?"
+  options:
+    - correct: false
+      value: "Wait until the intersection is clear."
+    - correct: false
+      value: "Enter the intersection, but keep away from the Light Rail vehicle."
+    - correct: true
+      value: "Change lanes before crossing the intersection."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN035"
+  text: "You approach an intersection in busy traffic and want to go straight ahead. The traffic lights turn green. When are you permitted to enter the intersection?"
+  options:
+    - correct: false
+      value: "Only when there is room for your vehicle on the other side."
+    - correct: true
+      value: "Immediately after the traffic lights turn green."
+    - correct: false
+      value: "When the vehicle behind signals you to go."
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN037"
+  text: "You are at a busy intersection with slow moving traffic and want to go straight ahead. When the traffic lights change to green you should make sure that -"
+  options:
+    - correct: true
+      value: "You do not block the intersection."
+    - correct: false
+      value: "You have the car in the right gear."
+    - correct: false
+      value: "You do not hold up the traffic behind you."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN038"
+  text: "The traffic on the other side of this intersection has stopped. You are in the car shown and want to cross the intersection. The lights are green. What should you do?"
+  options:
+    - correct: false
+      value: "Wait until there is enough room for your vehicle to cross the intersection completely."
+    - correct: true
+      value: "Drive through the intersection slowly and hope that it will clear before the lights change."
+    - correct: false
+      value: "Drive into the intersection and then turn left."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN039"
+  text: "Which statement is correct?"
+  options:
+    - correct: true
+      value: "Red light cameras take photographs of vehicles that enter intersections when the lights are red."
+    - correct: false
+      value: "Red light cameras take photographs of vehicles that speed through intersections."
+    - correct: false
+      value: "Red light cameras take photographs of vehicles that cross intersections when the lights are yellow."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN040"
+  text: "As you drive into an intersection, the lights turn to yellow. You should -"
+  options:
+    - correct: false
+      value: "Continue through the intersection."
+    - correct: false
+      value: "Accelerate as hard as you can."
+    - correct: true
+      value: "Brake immediately to a stop."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN042"
+  text: "When these lights are flashing it means -"
+  options:
+    - correct: true
+      value: "Pedestrians must not start to cross."
+    - correct: false
+      value: "Pedestrians who have started crossing must go back to the footpath."
+    - correct: false
+      value: "Pedestrians are not allowed in this area at this time."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN043"
+  text: "You wish to turn left here. The pedestrian lights are flashing red. You should -"
+  options:
+    - correct: true
+      value: "Give way to pedestrians still crossing."
+    - correct: false
+      value: "Move into the right-hand lane."
+    - correct: false
+      value: "Slowly move through the intersection turning left."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN044"
+  text: "You drive up to an intersection with a stop sign. There is no painted stop line. Where should you stop?"
+  options:
+    - correct: true
+      value: "Before coming to and as near to the intersection as possible."
+    - correct: false
+      value: "At least five meters before the intersection."
+    - correct: false
+      value: "At the point where you can see clearly in both directions."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN045"
+  text: "You drive up to an intersection with a stop sign in the car marked A and you wish to turn right. The car marked B facing you also has a stop sign and is indicating to turn left. Who can go first?"
+  options:
+    - correct: false
+      value: "Car B."
+    - correct: false
+      value: "Car A."
+    - correct: true
+      value: "Whoever arrives at the intersection first."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN046"
+  text: "This intersection does not have any traffic lights or signs. You are in car A and want to turn right. When can you go?"
+  options:
+    - correct: false
+      value: "After the car going straight ahead has passed."
+    - correct: true
+      value: "Before the car going straight ahead has passed."
+    - correct: false
+      value: "As soon as you get to the intersection."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN048"
+  text: "At this intersection, there are no signs or traffic lights. You are in the car marked A. You want to turn left. What should you do?"
+  options:
+    - correct: false
+      value: "Slow down and give way to car B on your right."
+    - correct: true
+      value: "Enter the intersection and make the turn."
+    - correct: false
+      value: "Sound the horn to warn the other driver."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN049"
+  text: "You are in car A and want to turn right at this intersection. Car B facing you is also indicating to turn right. What path should you take?"
+  options:
+    - correct: false
+      value: "Both pass in front of each other."
+    - correct: false
+      value: "Pass behind each other."
+    - correct: true
+      value: "Choose either depending on the traffic."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN051"
+  text: "When police officers are at intersections giving directions you must -"
+  options:
+    - correct: true
+      value: "Always follow any instruction they give you."
+    - correct: false
+      value: "Drive through the intersection as you normally would."
+    - correct: false
+      value: "Wait for the traffic lights to start working again."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN053"
+  text: "You are in car A and are going straight ahead through the intersection. Who should give way?"
+  options:
+    - correct: false
+      value: "Car B."
+    - correct: false
+      value: "Whoever gets to the intersection first."
+    - correct: true
+      value: "Car A."
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN056"
+  text: "You wish to turn left at this roundabout. Which lane may you use?"
+  options:
+    - correct: true
+      value: "Left lane."
+    - correct: false
+      value: "Right lane."
+    - correct: false
+      value: "Either lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN057"
+  text: "You are in the right-hand lane and are planning to go straight ahead through this roundabout. When should you signal left to exit the roundabout?"
+  options:
+    - correct: false
+      value: "After point O."
+    - correct: true
+      value: "After point N."
+    - correct: false
+      value: "After point M."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN058"
+  text: "When you wish to turn left at a roundabout you indicate -"
+  options:
+    - correct: true
+      value: "Left from start to finish."
+    - correct: false
+      value: "Only if you think it necessary."
+    - correct: false
+      value: "Left only after you enter the roundabout."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN059"
+  text: "You wish to go straight ahead at this roundabout. Which statement is true?"
+  options:
+    - correct: false
+      value: "You must leave the roundabout in the same lane as you entered."
+    - correct: false
+      value: "You must enter in the right lane and leave in the left."
+    - correct: true
+      value: "You must always leave the roundabout in the left lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN060"
+  text: "You want to turn left at this roundabout. Which lane must you use?"
+  options:
+    - correct: false
+      value: "Lane A."
+    - correct: false
+      value: "Lane B."
+    - correct: true
+      value: "Either lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN061"
+  text: "When you wish to drive straight ahead at a roundabout you may enter from either the left or right lane. As you continue around you should -"
+  options:
+    - correct: false
+      value: "Keep in the lane you entered the roundabout."
+    - correct: false
+      value: "Move into another lane with least traffic."
+    - correct: true
+      value: "Change lanes to get through quickly."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN062"
+  text: "When turning left at a roundabout you should enter and leave the roundabout -"
+  options:
+    - correct: true
+      value: "In the left lane."
+    - correct: false
+      value: "In the right lane."
+    - correct: false
+      value: "In the lane with least traffic."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN063"
+  text: "You wish to go straight ahead on this roundabout with two lanes. Which lane may you use?"
+  options:
+    - correct: true
+      value: "Either lane."
+    - correct: false
+      value: "Left lane only."
+    - correct: false
+      value: "Right lane only."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN064"
+  text: "The motorcyclist wants to travel straight ahead through this roundabout. The rider should watch out for the marked car because the car -"
+  options:
+    - correct: true
+      value: "May be leaving the roundabout."
+    - correct: false
+      value: "Could be going too fast."
+    - correct: false
+      value: "May stop suddenly."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN065"
+  text: "To turn back into the same road from which you joined this roundabout you must -"
+  options:
+    - correct: false
+      value: "Stay in the right lane all the way round."
+    - correct: false
+      value: "Move into the left lane to leave the roundabout."
+    - correct: true
+      value: "Use the left lane all the way round."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN066"
+  text: "In this roundabout with two lanes, can the marked car turn right?"
+  options:
+    - correct: false
+      value: "No, not at any time."
+    - correct: true
+      value: "Yes, at any time."
+    - correct: false
+      value: "Yes, after changing to the right-hand lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN067"
+  text: "The red car wants to turn right and exit the roundabout in the street indicated by an arrow. Is the car positioned in the correct lane to do this?"
+  options:
+    - correct: false
+      value: "No, the car should enter the roundabout only from the right-hand lane."
+    - correct: true
+      value: "Yes, the car can make the turn only from this lane."
+    - correct: false
+      value: "Yes, the car can make the turn from either the left hand or the right-hand lane."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN068"
+  text: "If you enter an intersection that is under the control of a traffic controller -"
+  options:
+    - correct: true
+      value: "Follow the directions of the controller."
+    - correct: false
+      value: "Sound your horn at the traffic controller and hope they get out of your way."
+    - correct: false
+      value: "Stop at the intersection and then proceed slowly."
+
+- description: "Intersections RUH"
+  topic: "4-in"
+  id: "IN069"
+  text: "You are at an intersection and see a pedestrian crossing the road into which you are turning. You must -"
+  options:
+    - correct: true
+      value: "Give way to the pedestrian."
+    - correct: false
+      value: "Sound your horn to warn the pedestrian to get out of the way."
+    - correct: false
+      value: "Swerve around the pedestrian to avoid hitting them."
+
+
