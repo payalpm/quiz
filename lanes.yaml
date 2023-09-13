@@ -1,0 +1,227 @@
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD001"
+  text: "How should you merge with traffic when entering a freeway?"
+  options:
+    - correct: true
+      value: "Watch for a gap and merge with the traffic at the speed it is travelling."
+    - correct: false
+      value: "Speed up and force your way into the traffic."
+    - correct: false
+      value: "Stop, then enter the traffic quickly."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD002"
+  text: "Which movements shown in the diagram can legally be made by the driver of the purple car?"
+  options:
+    - correct: false
+      value: "O and P only."
+    - correct: false
+      value: "P only."
+    - correct: true
+      value: "O, P and Q."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD003"
+  text: "Which movements shown in the diagram can legally be made by the driver of the purple car?"
+  options:
+    - correct: true
+      value: "O, P and Q."
+    - correct: false
+      value: "O and P only."
+    - correct: false
+      value: "P only."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD004"
+  text: "Which movements shown in the diagram can legally be made by the driver of the purple car?"
+  options:
+    - correct: false
+      value: "O and P only."
+    - correct: false
+      value: "P only."
+    - correct: true
+      value: "O, P and Q."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD005"
+  text: "Double unbroken dividing lines are marked on a roadway. You may -"
+  options:
+    - correct: false
+      value: "Cross them to turn into a driveway or property, if it is safe to do so."
+    - correct: false
+      value: "Cross them to overtake a car ahead if it is safe to do so."
+    - correct: true
+      value: "Cross them to make a U-turn."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD007"
+  text: "A section of road is marked with double unbroken dividing lines as in the diagram. When is a vehicle allowed to cross these lines?"
+  options:
+    - correct: true
+      value: "To enter or leave a street or driveway."
+    - correct: false
+      value: "To overtake a slow vehicle ahead."
+    - correct: false
+      value: "When there is no traffic coming the other way."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD009"
+  text: "When driving in traffic lanes (as shown in the diagram), you may change your lane -"
+  options:
+    - correct: true
+      value: "Only when it is safe to do so."
+    - correct: false
+      value: "Without looking, provided you use your indicator."
+    - correct: false
+      value: "Provided you sound your horn to warn other drivers."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD010"
+  text: "When two lanes merge into one (as shown in the diagram), who should give way?"
+  options:
+    - correct: true
+      value: "The vehicle which has to cross the lane line."
+    - correct: false
+      value: "The faster vehicle."
+    - correct: false
+      value: "The vehicle in the right-hand lane because it is overtaking."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD011"
+  text: "Looking at the diagram, which vehicle must give way?"
+  options:
+    - correct: false
+      value: "Vehicle B."
+    - correct: false
+      value: "Vehicle A."
+    - correct: true
+      value: "Either vehicle, there is no rule on giving way when merging."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD013"
+  text: "You must use your indicator lights when -"
+  options:
+    - correct: true
+      value: "Changing lanes or turning left or right."
+    - correct: false
+      value: "Approaching a curve."
+    - correct: false
+      value: "Double parking."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD014"
+  text: "If you hear the siren of an emergency vehicle, you must -"
+  options:
+    - correct: true
+      value: "Take whatever action is necessary (with safety) to make way for the emergency vehicle."
+    - correct: false
+      value: "Flash your headlights to warn other drivers."
+    - correct: false
+      value: "Increase your speed to avoid the vehicle."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD015"
+  text: "You are in car marked A. You wish to overtake car marked B. You should -"
+  options:
+    - correct: true
+      value: "Wait behind car B until it moves into the left lane."
+    - correct: false
+      value: "Cross the unbroken single line and overtake."
+    - correct: false
+      value: "Cross the line and overtake only if it is safe."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD017"
+  text: "When the road is marked this way are you permitted to cross the lines and overtake?"
+  options:
+    - correct: false
+      value: "No."
+    - correct: true
+      value: "Yes."
+    - correct: false
+      value: "Yes, only if the way ahead is clear."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD018"
+  text: "When starting to overtake you see the dividing lines ahead change to double unbroken lines. What should you do?"
+  options:
+    - correct: false
+      value: "Do not overtake because you are not permitted to overtake on double lines."
+    - correct: true
+      value: "Continue to overtake because you started when the line was broken."
+    - correct: false
+      value: "Keep overtaking and cut in in front of the other car as soon as possible."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD022"
+  text: "You want to turn left at this intersection. There is an edge line that continues through the intersection. Are you permitted to turn here?"
+  options:
+    - correct: true
+      value: "Yes, you can cross an edge line to turn into or out of a street."
+    - correct: false
+      value: "No, not under any circumstances."
+    - correct: false
+      value: "Yes, only if you are in a taxi, hire car, bus or you live in that street."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD025"
+  text: "Before changing lanes you should -"
+  options:
+    - correct: true
+      value: "Signal in plenty of time, check your mirrors and look over your shoulder for other vehicles."
+    - correct: false
+      value: "Speed up so you are going faster than the traffic in the other lane."
+    - correct: false
+      value: "Signal for at least two seconds and quickly change lanes."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD026"
+  text: "You drive into a transit lane where the T2 rule applies. You have one passenger plus yourself. Are you permitted to remain in the transit lane?"
+  options:
+    - correct: false
+      value: "Yes, you have two people in your car so you can drive in this lane."
+    - correct: true
+      value: "No, because you only have one passenger you must move out of the transit lane immediately."
+    - correct: false
+      value: "Yes, you can remain in the transit lane, but only if you are turning left in 250 metres."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD027"
+  text: "You change lanes and then see you are in a lane where the T3 rule applies. There is no other traffic in this lane. You have one passenger. What should you do?"
+  options:
+    - correct: true
+      value: "Change lanes as soon as it is safe because you are not permitted to travel in a T3 lane with only two people in your car."
+    - correct: false
+      value: "Keep driving in the T3 lane because there is no other traffic in it."
+    - correct: false
+      value: "Immediately pull over to the left and stop. Then wait until it is safe to continue in another lane."
+
+- description: "Traffic Lights / Lanes RUH"
+  topic: "4-in"
+  id: "LD028"
+  text: "You are approaching the start of a T2 transit lane. You are the only person in the car. You want to turn left at the next intersection 200 metres away. Can you travel in the transit lane at this point?"
+  options:
+    - correct: false
+      value: "No, because you can only travel in the transit lane if the intersection you are turning left at is within 100 metres."
+    - correct: false
+      value: "Yes, because you only have a short distance to drive."
+    - correct: true
+      value: "Yes, if there is no traffic behind you."
