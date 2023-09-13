@@ -1,0 +1,949 @@
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG001"
+  text: "Can a P1 or P2 provisional driver legally instruct a learner driver?"
+  options:
+    - correct: false
+      value: "No."
+    - correct: true
+      value: "Yes, provided the provisional driver has held a P2 licence for more than 6 months."
+    - correct: false
+      value: "Yes, provided L and P1 or P2 plates are displayed."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG002"
+  text: "To progress to a P2 provisional licence, a P1 provisional driver must hold a P1 licence for a minimum period of -"
+  options:
+    - correct: true
+      value: "12 months."
+    - correct: false
+      value: "18 months."
+    - correct: false
+      value: "24 months."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG006"
+  text: "If one or two of your wheels run off the edge of the roadway, you should -"
+  options:
+    - correct: true
+      value: "Slow down gradually and ease back onto the road."
+    - correct: false
+      value: "Slow down quickly by braking hard."
+    - correct: false
+      value: "Increase your speed and drive back on the road."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG007"
+  text: "If there are no lanes marked on the road, you should drive -"
+  options:
+    - correct: false
+      value: "Near to the left-hand side of the road."
+    - correct: true
+      value: "Anywhere on your side of the road."
+    - correct: false
+      value: "Along the middle of the road."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG010"
+  text: "If you intend to turn left, are you required to give a signal?"
+  options:
+    - correct: true
+      value: "Yes, if turn signals are fitted to your vehicle."
+    - correct: false
+      value: "No, if turning left from a lane marked left turn only."
+    - correct: false
+      value: "No, if arrows are marked on the roadway."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG013"
+  text: "What is meant by this sign on or near a bridge?"
+  options:
+    - correct: true
+      value: "Slow down and be prepared to give way to vehicles travelling in the opposite direction."
+    - correct: false
+      value: "Stop at all times before crossing the bridge and only give way to pedestrians who may be crossing."
+    - correct: false
+      value: "Do not overtake a vehicle travelling in the same direction."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG014"
+  text: "When reversing, you should -"
+  options:
+    - correct: true
+      value: "Take care and never reverse for a greater distance and time than is necessary."
+    - correct: false
+      value: "Unbuckle your seat belt so you can reverse as quickly as possible."
+    - correct: false
+      value: "Sound your horn to warn other drivers."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG016"
+  text: "How close can you park to another vehicle when parked parallel to the kerb?"
+  options:
+    - correct: true
+      value: "You must leave at least 1 metre front and back."
+    - correct: false
+      value: "You must leave at least 2 metres from the front only."
+    - correct: false
+      value: "You must leave at least 3 metres front and back."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG017"
+  text: "Where there is parallel kerbside parking, are you allowed to double-park alongside a parked vehicle?"
+  options:
+    - correct: false
+      value: "No, not at any time."
+    - correct: true
+      value: "Yes, if delivering goods."
+    - correct: true
+      value: "Yes, if not obstructing traffic."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG018"
+  text: "Do you have any responsibilities when opening a vehicle door on a roadway?"
+  options:
+    - correct: true
+      value: "Yes, you must not open a door if you are likely to cause danger to road users or impede traffic."
+    - correct: false
+      value: "No, any following traffic must stop if the door interferes with its progress."
+    - correct: false
+      value: "No, there is no regulation to cover this situation."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG027"
+  text: "Are you permitted to park on a median strip or traffic island?"
+  options:
+    - correct: false
+      value: "No, not at any time."
+    - correct: false
+      value: "Yes, in daylight hours."
+    - correct: true
+      value: "Yes, but for no more than 30 minutes."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG028"
+  text: "Are you permitted to park in the direction of the arrow?"
+  options:
+    - correct: false
+      value: "No, not at any time."
+    - correct: false
+      value: "Yes, provided no taxis are using the area."
+    - correct: true
+      value: "Yes, if you are carrying two or more passengers."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG029"
+  text: "When driving at sunset or dawn on a dark day, what should you do?"
+  options:
+    - correct: true
+      value: "Turn on your lights on low beam."
+    - correct: false
+      value: "Keep your sunglasses on to cut down headlight glare."
+    - correct: false
+      value: "Turn on your hazard warning lights."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG030"
+  text: "You are driving at night with your headlights on high beam. When should you dip your headlights?"
+  options:
+    - correct: true
+      value: "When within 200 metres of the vehicle ahead or an oncoming one."
+    - correct: false
+      value: "When within 200 metres of an oncoming vehicle only."
+    - correct: false
+      value: "Never, you are allowed to drive with your lights on high beam at all times."
+Here's a YAML representation of the questions and options you provided:
+
+```yaml
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG031"
+  text: "You are driving in a 60 km/h zone, with only one lane for traffic in your direction. You see a bus ahead (with this sign displayed on the rear) signalling its intention to pull out from a bus stop, you should -"
+  options:
+    - correct: true
+      value: "Slow down, and give way to the bus as it has priority."
+    - correct: false
+      value: "Sound your horn to stop the bus from pulling out."
+    - correct: false
+      value: "Continue at your normal speed as the bus does not have priority."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG032"
+  text: "Is it an offence to obstruct clear vision of your number plates?"
+  options:
+    - correct: true
+      value: "Yes, at any time."
+    - correct: false
+      value: "Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate."
+    - correct: false
+      value: "No, you are allowed to cover your number plates if you want to."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG034"
+  text: "Before driving on a freeway, which of the following should you do?"
+  options:
+    - correct: true
+      value: "Make sure your vehicle has enough fuel, oil, water and the correct tyre pressure."
+    - correct: false
+      value: "Take your street directory in case you get lost."
+    - correct: false
+      value: "Have a large meal and a cup of coffee."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG035"
+  text: "What must you do if you miss your exit on a freeway?"
+  options:
+    - correct: true
+      value: "Continue until you reach the next appropriate exit."
+    - correct: false
+      value: "Stop, and reverse back along the freeway to the exit you missed."
+    - correct: false
+      value: "Stop immediately and turn around."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG036"
+  text: "As you leave a freeway, which of the following should you check?"
+  options:
+    - correct: true
+      value: "Your speed."
+    - correct: false
+      value: "Fuel gauge."
+    - correct: false
+      value: "Windscreen wipers."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG037"
+  text: "When can a private car travel in a lane marked by this sign?"
+  options:
+    - correct: false
+      value: "Only within 100 metres of making a turn."
+    - correct: false
+      value: "When carrying at least two passengers."
+    - correct: true
+      value: "Only to overtake another vehicle."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG038"
+  text: "Are you permitted to drive a car towing more than one trailer?"
+  options:
+    - correct: false
+      value: "No, not at all."
+    - correct: true
+      value: "Yes, if the combined length of vehicle and trailers does not exceed 15 metres."
+    - correct: false
+      value: "Yes, provided you have held a licence for two years."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG039"
+  text: "What must you do when you are towing a caravan to help other vehicles overtake?"
+  options:
+    - correct: true
+      value: "Keep at least 60 metres behind heavy vehicles or other vehicles towing caravans."
+    - correct: false
+      value: "Drive at least 25 km/h below the speed limit."
+    - correct: false
+      value: "Stop immediately and let the faster vehicle overtake."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG040"
+  text: "Are you permitted to tow a caravan with a person riding in the caravan?"
+  options:
+    - correct: false
+      value: "No, not under any circumstances."
+    - correct: true
+      value: "Yes, provided you do not exceed 60 km/h."
+    - correct: true
+      value: "Yes, if the person(s) in the caravan are over 12 years of age."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG042"
+  text: "Before driving a long distance at fast speed or carrying a full car load, you should -"
+  options:
+    - correct: true
+      value: "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends."
+    - correct: false
+      value: "Make sure you have a street directory, so you know where you are going."
+    - correct: false
+      value: "Have a large meal and a cup of coffee."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG043"
+  text: "If an oncoming vehicle crosses the centre line and is coming straight at you and you cannot stop, you should -"
+  options:
+    - correct: true
+      value: "Brake, look for room to the left, sound your horn and flash your lights."
+    - correct: false
+      value: "Slow down and hope that the driver will turn away."
+    - correct: false
+      value: "Drive onto the wrong side of the road and hope the other vehicle does not do the same."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG044"
+  text: "If you are involved in an accident where your vehicle needs to be towed away and the Police does not attend the crash scene, you -"
+  options:
+    - correct: true
+      value: "Must report the accident to the Police Station nearest to where the accident happened within 24 hours."
+    - correct: false
+      value: "Do not need to report the accident to the Police."
+    - correct: false
+      value: "Only need to report the accident to the Police if someone was injured."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG045"
+  text: "If your vehicle is involved in an accident (regardless of the damage), what details must you give, to the other driver(s), if asked?"
+  options:
+    - correct: true
+      value: "You must let them see your licence, take details, and give the name and address of the vehicle's owner."
+    - correct: false
+      value: "No details at all until you have contacted your insurance company."
+    - correct: false
+      value: "Only
+
+ your name and address details if a Policeman asks for them."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG046"
+  text: "If a vehicle you are driving is involved in an accident and a person is injured, what must you do after stopping?"
+  options:
+    - correct: true
+      value: "Render every assistance and take immediate steps to have an ambulance notified. Then call the Police."
+    - correct: false
+      value: "Only call the Police if the accident also resulted in over $500 worth of property damage."
+    - correct: false
+      value: "Report the accident to Police within seven days."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG047"
+  text: "Stop signs or flashing lights at railway crossings should always be obeyed, because -"
+  options:
+    - correct: true
+      value: "Trains are fast, heavy and cannot stop quickly."
+    - correct: false
+      value: "Pedestrians might be crossing."
+    - correct: false
+      value: "Car brakes often fail."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG048"
+  text: "You should not drive across a railway level crossing when -"
+  options:
+    - correct: true
+      value: "Traffic is blocking the other side."
+    - correct: false
+      value: "You are towing a caravan."
+    - correct: false
+      value: "A station is nearby."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG049"
+  text: "You should use your right-hand indicator when -"
+  options:
+    - correct: true
+      value: "You intend to move to the right, at any time."
+    - correct: false
+      value: "You intend to slow down."
+    - correct: false
+      value: "You are about to stop."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG052"
+  text: "When merging onto the freeway from the entrance, you should-"
+  options:
+    - correct: true
+      value: "Look for a large enough break in the traffic and adjust your speed so as to fit into the traffic flow."
+    - correct: false
+      value: "Sound your horn, turn on your indicator lights and move onto the freeway."
+    - correct: false
+      value: "Stop and check the traffic behind you on the entrance."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG053"
+  text: "If you see a sign indicating road repairs are going on, you should -"
+  options:
+    - correct: true
+      value: "Slow down and watch for traffic controllers and instructions."
+    - correct: false
+      value: "Stop immediately and wait for instructions."
+    - correct: false
+      value: "Maintain the same speed."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG055"
+  text: "You see a broken yellow line painted on the roadway adjacent to the kerb. What does it mean?"
+  options:
+    - correct: true
+      value: "Clearway restrictions apply - you must not stop during the clearway hours."
+    - correct: false
+      value: "You may at any time, park along this part of the road for 1 hour only."
+    - correct: false
+      value: "Bicycle riders must ride along the yellow line."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG056"
+  text: "If you see a horse and rider on the road what should you do?"
+  options:
+    - correct: true
+      value: "Slow down and give them plenty of room."
+    - correct: false
+      value: "Sound your horn to warn the rider."
+    - correct: false
+      value: "Speed up to pass the horse."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG061"
+  text: "A friend lends you a van that has seats for ten passengers. What type of licence do you need to drive this type of vehicle?"
+  options:
+    - correct: false
+      value: "A car licence."
+    - correct: false
+      value: "A heavy rigid vehicle licence."
+    - correct: true
+      value: "A small bus licence."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG062"
+  text: "What are you required to do if you develop a serious medical condition that could affect your driving?"
+  options:
+    - correct: true
+      value: "Once you become aware of the condition you must notify the RTA."
+    - correct: false
+      value: "Hand your licence in at the nearest police station."
+    - correct: false
+      value: "Tell your doctor and let him or her notify the RTA."
+```
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG063"
+  text: "A friend lends you his car. It is very noisy and blows a lot of smoke. He tells you the vehicle has been given a defect notice but it's still OK to drive it. What should you do?"
+  options:
+    - correct: true
+      value: "Before you borrow the car check the defect notice to make sure it is legal to drive the car."
+    - correct: false
+      value: "Borrow the car, but always drive it 10 Km/h below the speed limit."
+    - correct: false
+      value: "Borrow the car but only drive on streets where the car will not be a danger to others."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG064"
+  text: "Your car registration expires today. You have your car inspected for registration renewal but it fails the inspection. What should you do?"
+  options:
+    - correct: true
+      value: "After today you must not drive the car until it has been repaired, passed another inspection and registered."
+    - correct: false
+      value: "You have seven days to have the car repaired, after which the RTA considers it to be unregistered."
+    - correct: false
+      value: "Go to the RTA and ask them to renew your registration and tell them you will soon get the car fixed."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG067"
+  text: "You buy a car and find that the spare tyre is smooth; the tread is only just visible. If you get a puncture will it be legal to drive the car with a smooth spare tyre?"
+  options:
+    - correct: true
+      value: "No, it's illegal to drive a car with a smooth tyre even if it is the spare."
+    - correct: false
+      value: "Yes, but you must get the puncture fixed within 24 hours."
+    - correct: false
+      value: "Yes, if the tyre is correctly inflated and the side walls of the tyre are in good condition."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG068"
+  text: "You borrow a friend's car and find that the position of the driver's seat puts you sitting a long way from the steering wheel and controls. What should you do?"
+  options:
+    - correct: true
+      value: "Adjust the seat forward so it's right for you."
+    - correct: false
+      value: "Put up with the discomfort; you should not adjust another person's seat."
+    - correct: false
+      value: "Ask your friend for a cushion to place behind your back."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG070"
+  text: "You hold an unrestricted licence and are driving at 100 km/h in the country and pass this sign. What should you do?"
+  options:
+    - correct: true
+      value: "Slow down to a speed that will allow you to stop to avoid crashing into farm animals on the road."
+    - correct: false
+      value: "You can continue to drive at 100 km/h if there are fences to stop farm animals from getting on the road."
+    - correct: false
+      value: "For the next 5 kilometres you must not exceed 60 km/h unless you pass an end farm animals speed limit sign."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG071"
+  text: "You are turning right from one of two right turn only lanes. How should you use your indicators?"
+  options:
+    - correct: true
+      value: "Indicate with your right hand signal the same as any other right-hand turn."
+    - correct: false
+      value: "You should not indicate at all because it might confuse other drivers."
+    - correct: false
+      value: "Indicating in this situation is optional. Give a right-hand signal if you think it will help other road users."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG075"
+  text: "You are driving on a freeway and realize you forgot something at home. You want to go back for it. Can you do a U-turn on this road?"
+  options:
+    - correct: true
+      value: "No, not at any time."
+    - correct: false
+      value: "Yes, any time."
+    - correct: false
+      value: "Yes, providing you use the gravel joining roads."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG076"
+  text: "You have a six-year-old child with you in your car. You have just parked so you can collect a prescription from the chemist. You should -"
+  options:
+    - correct: true
+      value: "Take the child with you."
+    - correct: false
+      value: "Leave the child in the car."
+    - correct: false
+      value: "Ask an older person sitting nearby to watch the child."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG078"
+  text: "You want to leave your automatic car parked on a street sloping uphill. You should -"
+  options:
+    - correct: true
+      value: "Put the handbrake on and put the transmission in 'P' (park)."
+    - correct: false
+      value: "Park only on flat areas."
+    - correct: false
+      value: "Turn the wheels away from the kerb."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG080"
+  text: "You have just passed this sign. Can you park on this road?"
+  options:
+    - correct: true
+      value: "No, not at any time."
+    - correct: false
+      value: "Yes."
+    - correct: false
+      value: "Yes, but only in daylight hours."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG082"
+  text: "Where there are double dividing lines, you may park -"
+  options:
+    - correct: false
+      value: "At least three meters from the dividing lines."
+    - correct: true
+      value: "At least two meters from the dividing lines."
+    - correct: false
+      value: "One meter from the dividing lines."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG083"
+  text: "If there are no signs or markings to advise you, can you choose any of these methods of parking?"
+  options:
+    - correct: false
+      value: "No, only N is correct."
+    - correct: true
+      value: "Yes. M, N, and O are all legal."
+    - correct: false
+      value: "Yes, N is best but M and O are quite legal."
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG084"
+  text: "You should angle park -"
+  options:
+    - correct: true
+      value: "Where there are markings or a sign indicating angle park."
+    - correct: false
+      value: "Where the road is very wide."
+    - correct: false
+      value: "Where there is plenty of room from the centre line."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG086"
+  text: "This bridge has only just enough room for two vehicles. As you come close to it you should -"
+  options:
+    - correct: true
+      value: "Slow down and pay extra attention."
+    - correct: false
+      value: "Sound your horn to warn the other driver."
+    - correct: false
+      value: "Maintain your speed, keeping to the limit."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG087"
+  text: "Which side mirror is adjusted best?"
+  options:
+    - correct: true
+      value: "Mirror B."
+    - correct: false
+      value: "Mirror A."
+    - correct: false
+      value: "Mirror C."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG088"
+  text: "You should be particularly careful at this intersection because -"
+  options:
+    - correct: true
+      value: "The building blocks a good view of the side street."
+    - correct: false
+      value: "Intersections cause crashes."
+    - correct: false
+      value: "It looks a bit tricky."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG089"
+  text: "You are in busy traffic and slow down for a bicycle rider. A driver behind you beeps a horn and pressures you to go around the bike and drive faster. How should you respond?"
+  options:
+    - correct: true
+      value: "Resist the pressure, stay calm and overtake the cyclist when it is safe."
+    - correct: false
+      value: "Overtake the bike quickly and speed up to stop the other driver becoming aggressive."
+    - correct: false
+      value: "Go slower because the slower you go the safer you are."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG090"
+  text: "You hear the siren of an ambulance approaching you from behind. You should -"
+  options:
+    - correct: true
+      value: "Move into the left lane."
+    - correct: false
+      value: "Slow down to the speed of other traffic."
+    - correct: false
+      value: "Continue at the same speed."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG091"
+  text: "You are driving along this road. You hear an ambulance's siren and see the ambulance in your mirror. You should -"
+  options:
+    - correct: true
+      value: "Move to the left and make way for the ambulance."
+    - correct: false
+      value: "Turn into a driveway on the right-hand side of the road."
+    - correct: false
+      value: "Move to the right and make way for the ambulance."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG092"
+  text: "You are about to make a right-hand turn at this intersection. You have the green light. You hear a siren and then see that a fire truck will soon overtake you. You should -"
+  options:
+    - correct: true
+      value: "Stop and let the fire truck overtake you."
+    - correct: false
+      value: "Continue and make the turn because you have the right of way."
+    - correct: false
+      value: "Speed up to beat the fire truck."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG093"
+  text: "When you come across roadworks -"
+  options:
+    - correct: true
+      value: "You must obey the signs that are displayed at all times."
+    - correct: false
+      value: "You only have to obey the signs when there are workers about."
+    - correct: false
+      value: "You only have to obey the signs during working hours."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG094"
+  text: "Generally, if you hear the siren of an emergency vehicle you should -"
+  options:
+    - correct: true
+      value: "Pull over to the left until the emergency vehicle passes."
+    - correct: false
+      value: "Immediately come to a stop."
+    - correct: false
+      value: "Let the emergency vehicle pass and follow it closely behind."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG095"
+  text: "You are approaching a green light in vehicle A. An ambulance sounding its siren is approaching the same intersection and has a red light. You should -"
+  options:
+    - correct: true
+      value: "Slow down and stop if necessary to prevent getting in its way."
+    - correct: false
+      value: "Keep driving because you have the green light."
+    - correct: false
+      value: "Pull over to the left before you reach the intersection."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG099"
+  text: "When you see these lights flashing on the back of a bus, what should you do?"
+  options:
+    - correct: true
+      value: "Drive carefully at no more than 40 km/h."
+    - correct: false
+      value: "Overtake the bus only while the lights are flashing."
+    - correct: false
+      value: "Stop and wait for the lights to stop flashing."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG100"
+  text: "You are driving at night and there is no other traffic around you. When can you use your headlights on high beam?"
+  options:
+    - correct: true
+      value: "On any road, even if there are street lights."
+    - correct: false
+      value: "On any road where the speed limit is above 80 km/h."
+    - correct: false
+      value: "Only on roads that do not have street lights."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG102"
+  text: "You want to park your vehicle for a short time. It is nighttime. You should -"
+  options:
+    - correct: true
+      value: "Pick a visible position or leave the parking or hazard lights on."
+    - correct: false
+      value: "Park on the footpath."
+    - correct: false
+      value: "Leave your headlights on high beam."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG103"
+  text: "You drive up to a corner where you see some loose gravel on the road. You should -"
+  options:
+    - correct: true
+      value: "Slow down."
+    - correct: false
+      value: "Check the mirrors and change lanes."
+    - correct: false
+      value: "Speed up and drive over the gravel as quickly as possible."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG105"
+  text: "When you are driving on a two-lane freeway, which lane should you choose?"
+  options:
+    - correct: true
+      value: "The left lane unless you are overtaking."
+    - correct: false
+      value: "Whichever lane has the least traffic."
+    - correct: false
+      value: "The right lane to avoid slow-moving vehicles."
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG106"
+  text: "When there are three lanes on a freeway -"
+  options:
+    - correct: true
+      value: "The right lane is reserved for overtaking."
+    - correct: false
+      value: "The right lane is for emergency vehicles only."
+    - correct: false
+      value: "The right lane is for avoiding most traffic."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG110"
+  text: "When you see the headlights flashing on the front of a bus, what should you do?"
+  options:
+    - correct: true
+      value: "Be careful, there may be children about."
+    - correct: false
+      value: "Drive past the bus only while the lights are flashing."
+    - correct: false
+      value: "Stop and wait for the lights to stop flashing."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG112"
+  text: "You are driving your vehicle along a street and want to stop for a short time. Are you allowed to double park your vehicle (that is stand it on the road alongside a parked car)?"
+  options:
+    - correct: true
+      value: "No, never."
+    - correct: false
+      value: "Yes, provided you do not leave the vehicle."
+    - correct: false
+      value: "Yes, provided you stop for a short time only and turn on your hazard warning lights."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG113"
+  text: "Looking at the diagrams, how far from the approach side of a bus stop or a railway crossing are you allowed to stand or park your vehicle?"
+  options:
+    - correct: true
+      value: "At least 20 meters."
+    - correct: false
+      value: "At least 50 meters."
+    - correct: false
+      value: "At least 5 meters."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG114"
+  text: "Are you allowed to use a hand-held mobile phone while driving a car?"
+  options:
+    - correct: true
+      value: "No."
+    - correct: false
+      value: "Yes, but only when you stop at intersections."
+    - correct: false
+      value: "Yes, but you must hold the steering wheel with at least one hand."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG115"
+  text: "Are you required to carry your driver’s license with you every time you drive?"
+  options:
+    - correct: true
+      value: "Yes."
+    - correct: false
+      value: "No, it is only needed on long trips."
+    - correct: false
+      value: "No, being licensed is enough."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG116"
+  text: "Bicycle and motorcycle riders have the same rights to use the road as other motor vehicle drivers. They are, however, more at risk in traffic because -"
+  options:
+    - correct: true
+      value: "They are harder to see in traffic and do not have the same protection as many drivers."
+    - correct: false
+      value: "They are careless and do not obey road rules."
+    - correct: false
+      value: "They ride too fast and do not turn their lights on."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG117"
+  text: "To drive safely, you need to concentrate and be able to monitor everything that is happening on the road. To do this, you need to -"
+  options:
+    - correct: true
+      value: "Continually scan the road, looking ahead, to the sides, checking side and rear mirrors and anticipate what may happen."
+    - correct: false
+      value: "Turn all your attention only to the road ahead."
+    - correct: false
+      value: "Ask other occupants in the vehicle to watch out for possible dangers."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG118"
+  text: "If you are driving towards a road works zone and a traffic controller displays a stop sign you must -"
+  options:
+    - correct: true
+      value: "Stop your vehicle and follow the directions of the traffic controller."
+    - correct: false
+      value: "Stop and then proceed if you think it is safe."
+    - correct: false
+      value: "Slow down and continue through the road works zone."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG119"
+  text: "If you are driving through a road work zone in the left-hand lane and you see this sign you should -"
+  options:
+    - correct: true
+      value: "Merge to the right and give way to other traffic."
+    - correct: false
+      value: "Speed up to get in front of any cars traveling in the right-hand lane."
+    - correct: false
+      value: "Stop and wait for directions."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG120"
+  text: "Where must L or P plates be displayed on a vehicle -"
+  options:
+    - correct: true
+      value: "On the front and back of the exterior of the vehicle."
+    - correct: false
+      value: "Anywhere including on the dashboard."
+    - correct: false
+      value: "Anywhere inside the windows but only if they are not tinted."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG121"
+  text: "When displaying L or P plates, how much of the letter must be clearly visible?"
+  options:
+    - correct: true
+      value: "All of the letter L or P."
+    - correct: false
+      value: "Only enough of the letter so it is clear whether it is an L or P."
+    - correct: false
+      value: "Most of the letter."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG122"
+  text: "Do bicycle riders have the same rights and responsibilities as drivers and motorcycle riders?"
+  options:
+    - correct: true
+      value: "Yes."
+    - correct: false
+      value: "No, they must always ride on the footpath."
+    - correct: false
+      value: "No, they must give way to cars at all times when riding on the road."
+
+- description: "General Knowledge RUH"
+  topic: "2-cg"
+  id: "CG123"
+  text: "Before getting out of your vehicle you must -"
+  options:
+    - correct: true
+      value: "Check your mirrors and blind spots for pedestrians, bicycles, or other vehicles."
+    - correct: false
+      value: "Check your seatbelt is back in place."
+    - correct: false
+      value: "Check your headlights are turned off."
