@@ -1,0 +1,239 @@
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD004"
+  text: "To reduce the effect of alcohol before driving or riding you should -"
+  options:
+    - correct: true
+      value: "Wait. The time depends on how much you have drunk."
+    - correct: false
+      value: "Drink black coffee."
+    - correct: false
+      value: "Have a glass of water."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD009"
+  text: "Before driving a motor vehicle or riding a motor cycle it is safest -"
+  options:
+    - correct: true
+      value: "Not to drink any alcohol."
+    - correct: false
+      value: "Drink 1 nip of spirits (30 ml or 1 oz)."
+    - correct: false
+      value: "Drink 1 middy (285 ml) of light (low alcohol) beer."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD012"
+  text: "Is it an offence to refuse to take a POLICE breath test?"
+  options:
+    - correct: true
+      value: "Yes, always."
+    - correct: false
+      value: "No, if you say you haven't been drinking alcohol."
+    - correct: false
+      value: "No, if you are a learner driver."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD013"
+  text: "If you take medicine and then drink alcohol -"
+  options:
+    - correct: true
+      value: "It can have a particularly bad effect on your driving ability."
+    - correct: false
+      value: "The alcohol will have less effect than if taken alone."
+    - correct: false
+      value: "Your ability to react to emergencies will improve."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD014"
+  text: "If you are driving a bus, taxi, hire-car, heavy motor vehicle (over 13.9 tonnes Gross Vehicle Mass), or a vehicle with a dangerous load, it is an offence when the level of alcohol in your blood reaches -"
+  options:
+    - correct: true
+      value: "0.02."
+    - correct: false
+      value: "0.05."
+    - correct: false
+      value: "0.08."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD015"
+  text: "Having 1 or 2 alcoholic drinks before driving -"
+  options:
+    - correct: true
+      value: "Will affect your reactions and judgement."
+    - correct: false
+      value: "Improves your driving ability."
+    - correct: false
+      value: "Has no effect on your driving ability."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD016"
+  text: "Even if you feel unaffected after drinking alcohol, you should -"
+  options:
+    - correct: true
+      value: "Be aware that your abilities are decreased."
+    - correct: false
+      value: "Drive, but avoid using freeways."
+    - correct: false
+      value: "Spend more time than usual looking in the mirrors."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD025"
+  text: "Alcohol is a depressant. This means -"
+  options:
+    - correct: true
+      value: "It slows down how quickly your brain works."
+    - correct: false
+      value: "It speeds your brain up so you can work better."
+    - correct: false
+      value: "It makes you calm down and think more clearly."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD026"
+  text: "After drinking alcohol you could -"
+  options:
+    - correct: true
+      value: "Misjudge speed (your own and others)."
+    - correct: false
+      value: "Be able to drive the same as you normally can."
+    - correct: false
+      value: "Be able to pay close attention to details in the traffic."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD031"
+  text: "If you are going out and going to drink alcohol, the best way to avoid having to drink and drive is to -"
+  options:
+    - correct: true
+      value: "Organize beforehand a way of getting home where you are not the driver."
+    - correct: false
+      value: "After you have had a few drinks, start to think about how you will get home."
+    - correct: false
+      value: "Wait for one hour after your last drink before you drive home."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD033"
+  text: "When drivers have been drinking, the crashes they are involved in are generally -"
+  options:
+    - correct: true
+      value: "More serious."
+    - correct: false
+      value: "Less serious."
+    - correct: false
+      value: "About the same."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD034"
+  text: "On Thursday, Friday and Saturday nights, how many serious crashes involve alcohol?"
+  options:
+    - correct: true
+      value: "About 50%."
+    - correct: false
+      value: "About 30%."
+    - correct: false
+      value: "About 10%."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD038"
+  text: "What is the safest way to stay under the legal alcohol limit?"
+  options:
+    - correct: true
+      value: "Not drinking any alcohol."
+    - correct: false
+      value: "Buying a breathalyzer (alcohol measuring instrument)."
+    - correct: false
+      value: "Exercising and drinking black coffee."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "AD041"
+  text: "If you hold a learner or provisional license class what is the Blood Alcohol Concentration (BAC) limit?"
+  options:
+    - correct: true
+      value: "Zero."
+    - correct: false
+      value: "0.02."
+    - correct: false
+      value: "0.05."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR001"
+  text: "If you are taking any sort of medicine, you should -"
+  options:
+    - correct: true
+      value: "Find out from your doctor or chemist whether the medicine or drug will affect your driving and act accordingly."
+    - correct: false
+      value: "Only drive during the day after taking the medicine or drug."
+    - correct: false
+      value: "Only drive a motor car not a heavy vehicle."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR002"
+  text: "Before taking any drugs and then driving it is most important to -"
+  options:
+    - correct: true
+      value: "Know what the effects of the drug are."
+    - correct: false
+      value: "Plan to have some other person with you."
+    - correct: false
+      value: "Have some food in your stomach."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR004"
+  text: "If you have used illegal drugs you -"
+  options:
+    - correct: true
+      value: "Must not drive."
+    - correct: false
+      value: "May drive only in light traffic."
+    - correct: false
+      value: "Should drink coffee before driving."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR009"
+  text: "If you are affected by a legal drug, such as a medicine (e.g. cold or allergy tablets) -"
+  options:
+    - correct: true
+      value: "You must not drive."
+    - correct: false
+      value: "You must have a passenger to help you drive."
+    - correct: false
+      value: "You may drive only in daylight hours."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR010"
+  text: "You want to drive your car but you have a very bad headache. A friend gives you some of their headache tablets to kill the pain. What should you do before you take these tablets?"
+  options:
+    - correct: true
+      value: "Read the label and confirm they are not prescription drugs and there are no special warnings on the label."
+    - correct: false
+      value: "Ask your friend if the tablets have affected them."
+    - correct: false
+      value: "Drink a large glass of milk because this reduces the adverse effects of medicines and drugs."
+
+- description: "Alcohol and Drugs RUH"
+  topic: "3-ad"
+  id: "DR011"
+  text: "If you are taking several medications and you want to drive, you should -"
+  options:
+    - correct: true
+      value: "Ask your doctor if the combination of drugs will make it dangerous to drive."
+    - correct: false
+      value: "Drive carefully around your local streets to see if you are affected."
+    - correct: false
+      value: "Ask your passengers to let you know if you are not driving as well as you should."
