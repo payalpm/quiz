@@ -1,0 +1,45 @@
+- description: "Pedestrians RUH"
+  id: "PD001"
+  text: "You must give way to pedestrians on a marked pedestrian crossing -"
+  options:
+    - correct: true
+      value: "If there is any danger of a collision."
+    - correct: false
+      value: "When they are crossing from your right only."
+    - correct: false
+      value: "When they are crossing from your left only."
+
+- description: "Pedestrians RUH"
+  id: "PD002"
+  text: "When approaching a marked pedestrian crossing and no pedestrians are in sight, you should -"
+  options:
+    - correct: true
+      value: "Slow down and be ready to make a safe stop."
+    - correct: false
+      value: "Come to a complete stop before the crossing."
+    - correct: false
+      value: "Go faster, in case a pedestrian steps onto the crossing."
+
+- description: "Pedestrians RUH"
+  id: "PD003"
+  text: "If elderly people or children are on a pedestrian crossing you will probably need to –"
+  options:
+    - correct: true
+      value: "Wait extra time to allow them to cross safely."
+    - correct: false
+      value: "Sound your horn to hurry them up."
+    - correct: false
+      value: "Drive around them so you don't hold up traffic."
+
+- description: "Pedestrians RUH"
+  id: "PD004"
+  text: "Which sign painted on the road tells you there is a pedestrian crossing ahead?"
+  options:
+    - correct: true
+      value: "B"
+    - correct: false
+      value: "A"
+    - correct: false
+      value: "C"
+
+
