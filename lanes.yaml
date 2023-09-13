@@ -217,11 +217,423 @@
 - description: "Traffic Lights / Lanes RUH"
   topic: "4-in"
   id: "LD028"
-  text: "You are approaching the start of a T2 transit lane. You are the only person in the car. You want to turn left at the next intersection 200 metres away. Can you travel in the transit lane at this point?"
+  text: "You are approaching the start of a T2 transit lane. You are the only person in the car. You want to turn left at the next intersection 200 meters away. Can you travel in the transit lane at this point?"
   options:
     - correct: false
-      value: "No, because you can only travel in the transit lane if the intersection you are turning left at is within 100 metres."
+      value: "No, because you can only travel in the transit lane if the intersection you are turning left at is within 100 meters."
     - correct: false
       value: "Yes, because you only have a short distance to drive."
     - correct: true
       value: "Yes, if there is no traffic behind you."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD029"
+  text: "You are in car marked Y and want to turn right using a median turning lane. A car marked O, coming towards you, is already in the median lane; it is slowing down and indicating. Are you permitted to enter and share the median turning lane?"
+  options:
+    - correct: true
+      value: "Yes, but you must be prepared to slow down and stop."
+    - correct: false
+      value: "No, if another car is already in the median turning lane you must not use it."
+    - correct: false
+      value: "Yes, but only if you race the other car and get to the turning position first."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD032"
+  text: "You are driving a car and want to pick up a passenger. The lane you want to stop in is a BUS LANE. Are you permitted to stop there?"
+  options:
+    - correct: false
+      value: "No, unless you are driving a hire car or a taxi."
+    - correct: false
+      value: "Yes, if you pick the passenger up and then immediately drive off."
+    - correct: true
+      value: "Yes, you are allowed to stop in a BUS LANE for as long as you like."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD033"
+  text: "What does this sign mean?"
+  options:
+    - correct: false
+      value: "There is a lane just for light rail vehicles."
+    - correct: false
+      value: "You are approaching a lane that is only for buses."
+    - correct: true
+      value: "Slow down and prepare to stop for a train."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD038"
+  text: "You are going to turn right from a one-way street. Where should you be when you start your turn?"
+  options:
+    - correct: true
+      value: "Position R. As close as possible to the right side of the road."
+    - correct: false
+      value: "Any position if it is safe to do so."
+    - correct: false
+      value: "Position M. From the middle of the road."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD040"
+  text: "Overtaking another vehicle requires good concentration and judgment. Which of the following statements is correct?"
+  options:
+    - correct: true
+      value: "You need to watch out for all large, long vehicles which are turning."
+    - correct: false
+      value: "It is best and safest to speed up when a vehicle behind you tries to overtake you."
+    - correct: false
+      value: "The faster the vehicle you are overtaking is going, the less distance you need to overtake."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD041"
+  text: "When driving on a multi-lane road with a speed limit of more than 80 km/h, which lane should you choose?"
+  options:
+    - correct: true
+      value: "The left lane unless overtaking."
+    - correct: false
+      value: "The right lane to avoid slow-moving vehicles."
+    - correct: false
+      value: "Either left or right lane."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD043"
+  text: "Signaling is -"
+  options:
+    - correct: true
+      value: "Always required before turning or lane changing."
+    - correct: false
+      value: "Not required when turning at T-intersections."
+    - correct: false
+      value: "Not required when turning at traffic lights with a green arrow."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "LD044"
+  text: "How should you merge with traffic when entering a motorway?"
+  options:
+    - correct: true
+      value: "Watch for a gap and increase your speed to safely merge with the traffic."
+    - correct: false
+      value: "Slow down and force your way into the traffic."
+    - correct: false
+      value: "Stop, then enter the traffic quickly."
+
+- description: "Negligent Driving RUH"
+  id: "ND002"
+  text: "When driving near parked vehicles, you should -"
+  options:
+    - correct: true
+      value: "Check for parked vehicles with turn signals on, or children about to step out."
+    - correct: false
+      value: "Stop if you see a car with its right-hand indicator on."
+    - correct: false
+      value: "Sound your horn and flash your headlights to warn drivers not to pull out."
+
+- description: "Negligent Driving RUH"
+  id: "ND004"
+  text: "You are approaching a hill or curve. You must not cross the center line to overtake -"
+  options:
+    - correct: true
+      value: "If you do not have a clear view of any approaching traffic."
+    - correct: false
+      value: "If you cannot see clear road ahead for 100 meters."
+    - correct: false
+      value: "If you cannot see clear road ahead for 75 meters."
+
+- description: "Negligent Driving RUH"
+  id: "ND005"
+  text: "You are approaching the crest (top of a hill) on a narrow road, the safest procedure is to -"
+  options:
+    - correct: true
+      value: "Keep to the left and slow down."
+    - correct: false
+      value: "Flash your headlights to warn oncoming traffic."
+    - correct: false
+      value: "Increase your speed and sound your horn."
+
+- description: "Negligent Driving RUH"
+  id: "ND007"
+  text: "On a single-laned road (as shown), you must always overtake another vehicle on its right except when -"
+  options:
+    - correct: true
+      value: "The other vehicle is turning right."
+    - correct: false
+      value: "You are traveling at more than 80 km/h."
+    - correct: false
+      value: "The other vehicle is going slower than you."
+
+- description: "Negligent Driving RUH"
+  id: "ND008"
+  text: "When overtaking another vehicle you should NOT move back in front of it, unless –"
+  options:
+    - correct: true
+      value: "You can see the overtaken vehicle in your rear vision mirror."
+    - correct: false
+      value: "An oncoming car appears over a hill."
+    - correct: false
+      value: "The driver of the vehicle signals it is safe to do so."
+
+- description: "Negligent Driving RUH"
+  id: "ND009"
+  text: "A driver behind you signals their intention to overtake your car. What should you do?"
+  options:
+    - correct: true
+      value: "Keep to the left and let that driver overtake you."
+    - correct: false
+      value: "Speed up so that the driver will not have to overtake."
+    - correct: false
+      value: "Signal the driver to remain behind you if it is traveling too fast."
+
+- description: "Negligent Driving RUH"
+  id: "ND010"
+  text: "The faster the vehicle in front of you is traveling, the -"
+  options:
+    - correct: true
+      value: "More distance and time you need to overtake."
+    - correct: false
+      value: "Less time you need to overtake."
+    - correct: false
+      value: "Closer you must get before starting to overtake."
+
+- description: "Negligent Driving RUH"
+  id: "ND011"
+  text: "If you are not sure you have enough distance to overtake a vehicle ahead, you should -"
+  options:
+    - correct: true
+      value: "Wait for a better opportunity with more distance to overtake."
+    - correct: false
+      value: "Put the vehicle in a lower gear and speed up."
+    - correct: false
+      value: "Sound your horn to signal the driver ahead to slow down."
+
+- description: "Negligent Driving RUH"
+  id: "ND012"
+  text: "When being overtaken by another vehicle what should you do to help?"
+  options:
+    - correct: true
+      value: "Keep left and allow plenty of room to let the other vehicle back in."
+    - correct: false
+      value: "Brake quickly to let the other vehicle overtake."
+    - correct: false
+      value: "Move to the left and stop."
+
+- description: "Negligent Driving RUH"
+  id: "ND014"
+  text: "Before beginning to overtake another vehicle, you should -"
+  options:
+    - correct: true
+      value: "Check to see it is safe, change gear if necessary, and signal your intention before moving out."
+    - correct: false
+      value: "Signal and slow down so you will have more room to overtake."
+    - correct: false
+      value: "Sound your horn, move out and overtake."
+
+- description: "Negligent Driving RUH"
+  id: "ND015"
+  text: "You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You –"
+  options:
+    - correct: true
+      value: "Must let the long vehicle turn first."
+    - correct: false
+      value: "May move to the left-hand side of the road and pass the long vehicle."
+    - correct: false
+      value: "May pass the truck because it cannot turn left from the middle lane."
+
+- description: "Negligent Driving RUH"
+  id: "ND019"
+  text: "How should you overtake a pedal cyclist?"
+  options:
+    - correct: true
+      value: "The same as you would another car, with safety."
+    - correct: false
+      value: "Drive as close as possible to the cyclist so he or she will move over and let you pass."
+    - correct: false
+      value: "Sound your horn to warn the cyclist to get off the road."
+
+- description: "Negligent Driving RUH"
+  id: "ND020"
+  text: "If an overtaking vehicle signals that it must move in, in front of you, you should -"
+  options:
+    - correct: true
+      value: "Prepare to slow down to allow room."
+    - correct: false
+      value: "Speed up and not let the vehicle back in."
+    - correct: false
+      value: "Flash your lights at the overtaking vehicle."
+
+- description: "Negligent Driving RUH"
+  id: "ND021"
+  text: "The first thing you should do before overtaking is -"
+  options:
+    - correct: true
+      value: "Make sure it is safe and the way is clear of oncoming traffic."
+    - correct: false
+      value: "Sound your horn."
+    - correct: false
+      value: "Increase your speed."
+
+- description: "Negligent Driving RUH"
+  id: "ND028"
+  text: "If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver’s licence. You may also -"
+  options:
+    - correct: true
+      value: "Be sent to prison."
+    - correct: false
+      value: "Be restricted to driving an automatic vehicle."
+    - correct: false
+      value: "Have a personal speed limit imposed on you."
+
+- description: "Negligent Driving RUH"
+  id: "ND030"
+  text: "If you are convicted of dangerous driving -"
+  options:
+    - correct: true
+      value: "You could lose your licence and may be sent to prison."
+    - correct: false
+      value: "You could only be fined and given demerit points."
+    - correct: false
+      value: "You could be given demerit points only."
+
+- description: "Negligent Driving RUH"
+  id: "ND031"
+  text: "You are travelling in the left lane and wish to turn right at the intersection. You move to the right lane and a driver behind sounds their horn at you. What have you done wrong?"
+  options:
+    - correct: true
+      value: "Changed lanes unnecessarily."
+    - correct: false
+      value: "Crossed an unbroken lane line."
+    - correct: false
+      value: "Driven too slowly."
+- description: "Negligent Driving RUH"
+  id: "ND032"
+  text: "What is this driver doing that is negligent and illegal?"
+  options:
+    - correct: true
+      value: "Crossing an unbroken line at a curve."
+    - correct: false
+      value: "Not signaling to change lanes."
+    - correct: false
+      value: "Overtaking on the kerb side."
+
+- description: "Negligent Driving RUH"
+  id: "ND033"
+  text: "The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?"
+  options:
+    - correct: true
+      value: "Move into the left lane."
+    - correct: false
+      value: "Keep your position in this lane."
+    - correct: false
+      value: "Accelerate away from the other vehicle and keep driving in this lane."
+
+- description: "Negligent Driving RUH"
+  id: "ND034"
+  text: "The speed limit on this road is 100 km/h. When can you use the right lane?"
+  options:
+    - correct: true
+      value: "Only when overtaking or turning right."
+    - correct: false
+      value: "Whenever you want to."
+    - correct: false
+      value: "When there is no other traffic around."
+
+- description: "Negligent Driving RUH"
+  id: "ND035"
+  text: "Another vehicle is overtaking you on your right. You commit a traffic offence if you -"
+  options:
+    - correct: true
+      value: "Speed up while the other vehicle is on your right."
+    - correct: false
+      value: "Keep the same speed."
+    - correct: false
+      value: "Slow down while the other vehicle is on your right."
+
+- description: "Negligent Driving RUH"
+  id: "ND038"
+  text: "If the police suspect you may have been involved in street or drag racing, they may take immediate action. Which one of the following is correct? The police may -"
+  options:
+    - correct: true
+      value: "Take your vehicle from you and keep it stored for up to three months."
+    - correct: false
+      value: "Take your vehicle to the local police station and keep it till the following morning."
+    - correct: false
+      value: "Take your vehicle away and sell it at an auction."
+
+- description: "Negligent Driving RUH"
+  id: "ND039"
+  text: "If you are convicted a second time for street or drag racing, which one of the following penalties applies?"
+  options:
+    - correct: true
+      value: "Your vehicle may be taken away and sold."
+    - correct: false
+      value: "You will have to pay for the storage of your vehicle."
+    - correct: false
+      value: "You will not be able to register your vehicle again."
+
+- description: "Negligent Driving RUH"
+  id: "ND040"
+  text: "If you have been convicted for street or drag racing, which of these penalties may apply?"
+  options:
+    - correct: true
+      value: "You will get three demerit points and a large fine."
+    - correct: false
+      value: "You will be given a letter of warning and fined."
+    - correct: false
+      value: "You will be fined a small amount and get one demerit point."
+
+- description: "Negligent Driving RUH"
+  id: "ND044"
+  text: "When you have started to overtake the car, you notice that its right indicator is flashing. You should -"
+  options:
+    - correct: true
+      value: "Check your mirror and move back in behind the car."
+    - correct: false
+      value: "Accelerate quickly to get past."
+    - correct: false
+      value: "Immediately brake to a stop."
+
+- description: "Negligent Driving RUH"
+  id: "ND045"
+  text: "If you are caught speeding through a road work zone you will -"
+  options:
+    - correct: true
+      value: "Be liable for a speeding fine and loss of demerit points."
+    - correct: false
+      value: "Receive a warning letter in the mail."
+    - correct: false
+      value: "Not receive any penalty as road works speed limits are only advisory."
+
+- description: "Negligent Driving RUH"
+  id: "ND046"
+  text: "When driving through temporary road work you should -"
+  options:
+    - correct: true
+      value: "Slow down and look out for hazards."
+    - correct: false
+      value: "Maintain current speed if the road is clear."
+    - correct: false
+      value: "Sound your horn."
+
+- description: "Negligent Driving RUH"
+  id: "ND047"
+  text: "When entering or leaving a driveway you must -"
+  options:
+    - correct: true
+      value: "Give way to bicycles, vehicles, and pedestrians."
+    - correct: false
+      value: "Stop and give way only to vehicles."
+    - correct: false
+      value: "Blow your horn to warn other road users."
+
+- description: "Negligent Driving RUH"
+  id: "ND048"
+  text: "Will a P1 license be suspended for any speeding offense?"
+  options:
+    - correct: true
+      value: "Yes."
+    - correct: false
+      value: "No."
+    - correct: false
+      value: "Only for 10 km/h or more over the speed limit."
+
+
+
+
+
+
