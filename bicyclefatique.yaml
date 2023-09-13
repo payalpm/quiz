@@ -1,0 +1,322 @@
+- description: "Bicycle Safety RUH"
+  topic: "3-bi"
+  id: "BI001"
+  text: "You are driving on a road with a speed limit of 60km/h or less. How much space must you leave when passing a bicycle rider?"
+  options:
+    - correct: true
+      value: "at least 1 metre."
+    - correct: false
+      value: "at least 1.5 metres."
+    - correct: false
+      value: "as much as you think is safe."
+
+- description: "Bicycle Safety RUH"
+  topic: "3-bi"
+  id: "BI002"
+  text: "You are driving on a road with a speed limit above 60km/h. How much space must you leave when passing a bicycle rider?"
+  options:
+    - correct: true
+      value: "at least 1 metre."
+    - correct: false
+      value: "at least 1.5 metres."
+    - correct: false
+      value: "as much as you think is safe."
+
+- description: "Bicycle Safety RUH"
+  topic: "3-bi"
+  id: "BI003"
+  text: "In order to provide the minimum safe passing distance for bicycle riders, are you permitted to cross single and double continuous lines?"
+  options:
+    - correct: true
+      value: "no."
+    - correct: false
+      value: "yes, always"
+    - correct: false
+      value: "yes, but you must have a clear view of any approaching traffic and it must be safe to do so."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD001"
+  text: "Under good conditions, when driving behind any vehicle, at any speed, you should -"
+  options:
+    - correct: true
+      value: "Stay at least three seconds behind the vehicle in front of you."
+    - correct: false
+      value: "Drive as close to the vehicle in front as possible."
+    - correct: false
+      value: "Stay one second behind the vehicle in front of you."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD002"
+  text: "When driving in wet weather, your vehicle will -"
+  options:
+    - correct: true
+      value: "Take longer and further to stop, so slow down."
+    - correct: false
+      value: "Stop in the same distance as on a dry road."
+    - correct: false
+      value: "Handle better, so you can go faster."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD003"
+  text: "At night, if an oncoming vehicle's headlights dazzle you, you should -"
+  options:
+    - correct: true
+      value: "Slow down, until your eyes recover."
+    - correct: false
+      value: "Watch the centre line of the road."
+    - correct: false
+      value: "Close your eyes for a short time until they recover."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD004"
+  text: "If you get sleepy while driving, it is best to -"
+  options:
+    - correct: true
+      value: "Stop, rest, and change drivers if possible."
+    - correct: false
+      value: "Turn on the radio very loud."
+    - correct: false
+      value: "Turn on the air conditioning or open the windows."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD005"
+  text: "In wet weather when it becomes hard for you to see, you should -"
+  options:
+    - correct: true
+      value: "Turn on your headlights, slow down, and double your following distance behind the vehicle in front."
+    - correct: false
+      value: "Turn your headlights on high beam so you can see better."
+    - correct: false
+      value: "Flash your headlights to warn other drivers."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD006"
+  text: "If you are driving and it starts to rain, you should -"
+  options:
+    - correct: true
+      value: "Slow down using the brake gently, since rain and oil may create a slippery surface."
+    - correct: false
+      value: "Put your lights on high beam so you can see better."
+    - correct: false
+      value: "Put your hazard warning lights on and increase your speed to avoid the rain."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD007"
+  text: "When driving on a slippery wet road, for example, one covered in early morning dew, your vehicle will -"
+  options:
+    - correct: true
+      value: "Take longer and further to stop."
+    - correct: false
+      value: "Be heavier to steer."
+    - correct: false
+      value: "Be easier to steer and handle."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD010"
+  text: "Why should you avoid heavy braking on a wet road?"
+  options:
+    - correct: true
+      value: "Your wheels may skid and cause a loss of control."
+    - correct: false
+      value: "If the wheels lock up your handbrake may not work."
+    - correct: false
+      value: "You might wet pedestrians walking along the footpath."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD011"
+  text: "At night you should -"
+  options:
+    - correct: true
+      value: "Leave a longer gap behind the vehicle in front."
+    - correct: false
+      value: "Use your hazard warning lights when overtaking another vehicle."
+    - correct: false
+      value: "Drive closer to the vehicle in front so they can see you better."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD012"
+  text: "When it is very foggy during the day or night and your vehicle has no fog lights, you should -"
+  options:
+    - correct: true
+      value: "Slow down and use your low beam headlights and hazard warning lights to make your vehicle seen."
+    - correct: false
+      value: "Put on your high beam lights."
+    - correct: false
+      value: "Follow closer to other vehicles."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD013"
+  text: "When going on a long trip, out of the following which is the most important to do?"
+  options:
+    - correct: true
+      value: "Get plenty of rest before starting out."
+    - correct: false
+      value: "Make sure your horn is working."
+    - correct: false
+      value: "Have a good meal before driving."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD014"
+  text: "At night, when you approach an oncoming vehicle, you should -"
+  options:
+    - correct: true
+      value: "Not look at its headlights, but keep left and watch the left of the road."
+    - correct: false
+      value: "Carefully watch the vehicle by looking directly at its headlights."
+    - correct: false
+      value: "Put your lights on high beam, to make your vehicle more easily seen."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD026"
+  text: "Which of the following attitudes is most likely to make you a safer driver?"
+  options:
+    - correct: true
+      value: "When I drive, I have the main responsibility for my safety and the safety of other road users."
+    - correct: false
+      value: "It is up to other drivers to avoid crashing into me."
+    - correct: false
+      value: "Crashing or not crashing is a matter of luck."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD028"
+  text: "You are about to move away from the kerb in your car. What is the last thing you should do before you move into traffic?"
+  options:
+    - correct: true
+      value: "Check over your shoulder."
+    - correct: false
+      value: "Adjust your seat."
+    - correct: false
+      value: "Put on your seat belt."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD030"
+  text: "What is the best way to avoid hitting other vehicles, people or animals when moving off from the kerb?"
+  options:
+    - correct: true
+      value: "Check your mirrors and look over your shoulder before moving off from the kerb."
+    - correct: false
+      value: "Have a good look around while you walk up to your car and then drive off as soon as you can."
+    - correct: false
+      value: "Sound your horn before moving away from the kerb to warn people of your intentions."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD031"
+  text: "Many people crash within the first few years of driving. What is the best way of learning to drive on your own without crashing?"
+  options:
+    - correct: true
+      value: "Start driving in daylight where it is not too busy and only drive in busier traffic as your driving gets better."
+    - correct: false
+      value: "Drive as much as you can with friends on the way to parties."
+    - correct: false
+      value: "Drive in every kind of traffic situation as soon as you get your licence."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD032"
+  text: "It is important to scan while driving so you can see everything that is happening on the road. What does scanning involve?"
+  options:
+    - correct: true
+      value: "Continually looking ahead, to the sides and using all mirrors when driving."
+    - correct: false
+      value: "Looking in the rear and side mirrors continually when driving."
+    - correct: false
+      value: "Looking further ahead down the road when driving."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD033"
+  text: "If you are a new driver and first start to drive at night you should -"
+  options:
+    - correct: true
+      value: "Drive mainly on streets that you know well."
+    - correct: false
+      value: "Drive mainly in unfamiliar streets."
+    - correct: false
+      value: "Drive long distances to improve your concentration."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD034"
+  text: "You set out on a fairly long drive to see some friends. After a while you start feeling tired. What should you do?"
+  options:
+    - correct: true
+      value: "Pull off the road, stop and rest until you no longer feel tired."
+    - correct: false
+      value: "Stop at a shop and get a drink that contains caffeine to help keep you awake."
+    - correct: false
+      value: "Make sure you get plenty of fresh air circulating inside the car by winding down your window."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD035"
+  text: "You are driving an older relative for an appointment and are running late. They ask you to go faster to get there on time. You should -"
+  options:
+    - correct: true
+      value: "Choose a safe speed and say you will not go any faster."
+    - correct: false
+      value: "Take the advice of a more experience driver and go faster where you can."
+    - correct: false
+      value: "Drop them off at the train station."
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD036"
+  text: "You are planning to drive from Sydney to the Gold Coast with some friends. To minimise fatigue and make the trip as safe as possible you should -"
+  options:
+    - correct: true
+      value: "Drive during the day, take plenty of breaks and share driving if possible."
+    - correct: false
+      value: "Drive mostly at night as there is less traffic on the road and therefore less risk of crashing."
+    - correct: false
+      value: "Aim to drive for as long as possible when you are feeling good so you can arrive earlier."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD037"
+  text: "You should leave a gap between your vehicle and the one you are following. In good conditions the gap should be -"
+  options:
+    - correct: true
+      value: "3 seconds."
+    - correct: false
+      value: "1 second."
+    - correct: false
+      value: "2 seconds."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD038"
+  text: "It is night time and you are driving home from the movies. You are travelling in a line of vehicles. What size gap should you leave between your vehicle and the vehicles in front of you?"
+  options:
+    - correct: true
+      value: "A gap of about 4 seconds as it is easy to misjudge distances at night."
+    - correct: false
+      value: "A gap of about 2 seconds so you can watch the vehicles in front closely and see when they are stopping."
+    - correct: false
+      value: "The same 3-second gap you would leave during the day."
+
+- description: "Fatigue and Defensive Driving RUH"
+  topic: "3-fd"
+  id: "FD041"
+  text: "While driving, you come across aggressive, selfish or ignorant driving behaviour by another driver. You should -"
+  options:
+    - correct: true
+      value: "Stay calm and in control of your vehicle at all times."
+    - correct: false
+      value: "Respond by using your horn and/or flashing your lights to let the driver know how you feel."
+    - correct: false
+      value: "Chase the car to tell the driver how to drive."
