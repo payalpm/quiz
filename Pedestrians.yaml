@@ -41,5 +41,266 @@
       value: "A"
     - correct: false
       value: "C"
+- description: "Pedestrians RUH"
+  id: "PD005"
+  text: "A vehicle ahead of you has stopped at a pedestrian crossing. You -"
+  options:
+    - correct: true
+      value: "Must not overtake the stopped vehicle."
+    - correct: false
+      value: "May overtake the vehicle if there are no pedestrians on the crossing."
+    - correct: false
+      value: "May overtake the vehicle provided no cars are coming the other way."
+
+- description: "Pedestrians RUH"
+  id: "PD006"
+  text: "If you see a School Crossing Supervisor holding a sign like this, you must wait until the children -"
+  options:
+    - correct: true
+      value: "Are off the crossing and the hand-held sign is taken away."
+    - correct: false
+      value: "Reach the right-hand side of the crossing."
+    - correct: false
+      value: "Are out of sight."
+
+- description: "Pedestrians RUH"
+  id: "PD007"
+  text: "Which one of the following statements is correct? Bicycle riders -"
+  options:
+    - correct: true
+      value: "Must obey the road rules."
+    - correct: false
+      value: "May not travel on heavy traffic roads."
+    - correct: false
+      value: "Must ride against the flow of traffic so they can be seen."
+
+- description: "Pedestrians RUH"
+  id: "PD009"
+  text: "When driving near children playing or walking near the edge of the road, you should -"
+  options:
+    - correct: true
+      value: "Slow down, and be ready to make a safe stop."
+    - correct: false
+      value: "Sound your horn to warn them of your presence."
+    - correct: false
+      value: "Continue at the same speed and drive around them."
+
+- description: "Pedestrians RUH"
+  id: "PD010"
+  text: "Pedestrians who are affected by alcohol, are -"
+  options:
+    - correct: false
+      value: "One of the most common groups involved in road accidents."
+    - correct: false
+      value: "Unlikely to walk near the road and do not require your attention."
+    - correct: true
+      value: "Less dangerous than sober pedestrians because they are more careful after drinking."
+
+- description: "Pedestrians RUH"
+  id: "PD011"
+  text: "When driving near pedestrian crossings, intersections, or school crossings, you should always -"
+  options:
+    - correct: true
+      value: "Slow down, watch for pedestrians and be ready to make a safe stop."
+    - correct: false
+      value: "Move into the left lane."
+    - correct: false
+      value: "Keep your eyes on the speedo."
+
+- description: "Pedestrians RUH"
+  id: "PD012"
+  text: "When driving in an area where there are many pedestrians (e.g. a bus stop) it is important to -"
+  options:
+    - correct: true
+      value: "Slow down and watch for an indication that they will enter the road."
+    - correct: false
+      value: "Put your headlights on high beam so they can see you better."
+    - correct: false
+      value: "Increase your speed to avoid the chance of hitting them."
+
+- description: "Pedestrians RUH"
+  id: "PD013"
+  text: "When driving past parked vehicles, which of the following is it most important to do –"
+  options:
+    - correct: true
+      value: "Watch for pedestrians, animals and car doors opening."
+    - correct: false
+      value: "Drive in the right-hand lane, if there is one."
+    - correct: false
+      value: "Stay as close as possible to the vehicle in front of you."
+
+- description: "Pedestrians RUH"
+  id: "PD014"
+  text: "When driving in wet weather, you should -"
+  options:
+    - correct: true
+      value: "Watch out for pedestrians, who may hurry and take risks."
+    - correct: false
+      value: "Drive in the middle of the road to avoid splashing pedestrians on the footpath."
+    - correct: false
+      value: "Stop and help aged pedestrians across the road."
+
+- description: "Pedestrians RUH"
+  id: "PD015"
+  text: "At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stop signal, it means -"
+  options:
+    - correct: true
+      value: "You may carefully drive through the crossing if there is no risk of colliding with pedestrians."
+    - correct: false
+      value: "The traffic lights are out of order and pedestrians must not use the crossing."
+    - correct: false
+      value: "The green light is due. Do not proceed until the green light appears."
+
+- description: "Pedestrians RUH"
+  id: "PD016"
+  text: "Which statement is true?"
+  options:
+    - correct: true
+      value: "You must give way to pedestrians if there is any danger of hitting them."
+    - correct: false
+      value: "Pedestrians have no special rights on the roads."
+    - correct: false
+      value: "You must give way to pedestrians only at marked crossings."
+
+- description: "Pedestrians RUH"
+  id: "PD017"
+  text: "You drive towards these people on the road. What should you do?"
+  options:
+    - correct: true
+      value: "Stop and give way if there is any danger of hitting them."
+    - correct: false
+      value: "Continue at the same speed and sound the horn."
+    - correct: false
+      value: "Slow down until they are half way through the crossing and drive on."
+- description: "Pedestrians RUH"
+  id: "PD018"
+  text: "You see these zig-zag markings on the road in front of you. What do they mean?"
+  options:
+    - correct: true
+      value: "Take care and look out for pedestrians at a crossing."
+    - correct: false
+      value: "Look out for animals on the side of the road."
+    - correct: false
+      value: "Be careful because the road ahead is slippery."
+
+- description: "Pedestrians RUH"
+  id: "PD019"
+  text: "These markings on the road indicate -"
+  options:
+    - correct: true
+      value: "Places where pedestrians have special rights."
+    - correct: false
+      value: "Places where you can park."
+    - correct: false
+      value: "Places where special speed limits apply."
+
+- description: "Pedestrians RUH"
+  id: "PD021"
+  text: "You approach a person crossing the road. You should -"
+  options:
+    - correct: true
+      value: "Slow down or stop to avoid hitting the person."
+    - correct: false
+      value: "Slow down and sound your horn to hurry up the person."
+    - correct: false
+      value: "Maintain your speed and swerve around the person."
+
+- description: "Pedestrians RUH"
+  id: "PD022"
+  text: "You approach a crossing and see the scene in the picture. You should -"
+  options:
+    - correct: true
+      value: "Slow down and stop until the supervisor takes down the sign."
+    - correct: false
+      value: "Slow down and drive through giving way to the children."
+    - correct: false
+      value: "Stop and wait for the children until your lane is clear."
+
+- description: "Pedestrians RUH"
+  id: "PD023"
+  text: "At a pedestrian crossing with traffic lights, when the lights change to red you should -"
+  options:
+    - correct: true
+      value: "Stop, wait for pedestrians to cross and for the green light to come on."
+    - correct: false
+      value: "Slow down and give way to pedestrians."
+    - correct: false
+      value: "Stop and continue after the pedestrians have crossed."
+
+- description: "Pedestrians RUH"
+  id: "PD024"
+  text: "This person is standing on a pedestrian refuge. If he steps out onto your lane you should -"
+  options:
+    - correct: true
+      value: "Give way to the person if there is any danger of colliding."
+    - correct: false
+      value: "Slow down and sound the horn to warn the person to move back."
+    - correct: false
+      value: "Maintain your speed so you do not hold up the traffic."
+
+- description: "Pedestrians RUH"
+  id: "PD025"
+  text: "Which of the following statements is correct?"
+  options:
+    - correct: true
+      value: "You must give way to pedestrians if there is a danger of a collision."
+    - correct: false
+      value: "Pedestrians must cross the road only at marked crossings and intersections."
+    - correct: false
+      value: "You do not have to give way to adults crossing at children's crossings."
+- description: "Pedestrians RUH"
+  id: "PD026"
+  text: "When you see children on or near the road -"
+  options:
+    - correct: true
+      value: "You should slow down and be more careful because they may move suddenly."
+    - correct: false
+      value: "You should reduce your speed by 5 km/h."
+    - correct: false
+      value: "You should ignore them and pay attention to the rear vision mirror."
+
+- description: "Pedestrians RUH"
+  id: "PD027"
+  text: "When you see older people on or near the road, you should -"
+  options:
+    - correct: true
+      value: "Slow down and take extra care because they may not see you until you are very close."
+    - correct: false
+      value: "Drive around them to keep the traffic moving."
+    - correct: false
+      value: "Sound your horn and keep going at the same speed so you do not hold up the traffic."
+
+- description: "Pedestrians RUH"
+  id: "PD028"
+  text: "You must give way to pedestrians if there is a risk of hitting them. When driving in poor light, you should -"
+  options:
+    - correct: true
+      value: "Look more carefully for pedestrians because they are hard to see."
+    - correct: false
+      value: "Keep your headlights on high beam all the time."
+    - correct: false
+      value: "Always drive in the right-hand lane so you can be away from pedestrians."
+
+- description: "Pedestrians RUH"
+  id: "PD030"
+  text: "You drive up to a Light Rail vehicle that has just stopped at a tram stop. What is the most important thing you should do?"
+  options:
+    - correct: true
+      value: "Take extra care, slow down and give way to the pedestrians."
+    - correct: false
+      value: "Keep a look out for traffic coming in the opposite direction."
+    - correct: false
+      value: "Slow down, but keep moving so you do not delay other drivers."
+
+- description: "Pedestrians RUH"
+  id: "PD031"
+  text: "You must give way to pedestrians -"
+  options:
+    - correct: true
+      value: "At all times, if there is any danger of colliding with them, even if there is no marked crossing."
+    - correct: false
+      value: "Only on marked foot crossings."
+    - correct: false
+      value: "Only on marked foot crossings and traffic light pedestrian crossings."
 
 
