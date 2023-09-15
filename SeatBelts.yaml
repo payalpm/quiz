@@ -1,0 +1,271 @@
+- description: "Seat Belts / Restraints RUH"
+  id: "SB002"
+  text: "A car is carrying a driver and 3 adult passengers. There are seat belts in all seating positions. By law, seat belts must be worn by -"
+  options:
+    - correct: true
+      value: "All four people."
+    - correct: false
+      value: "Only the driver."
+    - correct: false
+      value: "Only the driver and front seat passenger."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB003"
+  text: "The adult passenger in the rear is breaking the law because she is -"
+  options:
+    - correct: true
+      value: "Not wearing the available seat belt."
+    - correct: false
+      value: "Sitting in the back seat."
+    - correct: false
+      value: "Distracting the driver."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB007"
+  text: "The most effective device for protecting passengers when in an accident is –"
+  options:
+    - correct: true
+      value: "Seat belts."
+    - correct: false
+      value: "Safety door latches."
+    - correct: false
+      value: "Padded instrument panels."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB008"
+  text: "Which one of the following statements is correct? Seat belts -"
+  options:
+    - correct: true
+      value: "Save lives and prevent injury."
+    - correct: false
+      value: "Do not have to be used in the rear seat."
+    - correct: false
+      value: "Are not necessary for good drivers."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB011"
+  text: "Seat belts and child restraints (e.g., baby capsules and child seats) -"
+  options:
+    - correct: true
+      value: "Must always be worn properly, and adjusted tightly."
+    - correct: false
+      value: "Are only needed on long trips."
+    - correct: false
+      value: "Are only needed on short trips."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB012"
+  text: "Child restraints (e.g., baby capsules and child seats) -"
+  options:
+    - correct: true
+      value: "Should be fitted according to the manufacturers' instructions."
+    - correct: false
+      value: "Are not as safe as holding a child in your arms."
+    - correct: false
+      value: "Need only be used if the child wants to sleep."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB013"
+  text: "You are driving a vehicle that only has a seat belt for the driver. To reduce the danger of being in a vehicle without a seat belt, where is the best place for passengers to sit?"
+  options:
+    - correct: true
+      value: "In the back seat."
+    - correct: false
+      value: "In the front seat."
+    - correct: false
+      value: "In the front seat sharing your seat belt."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB016"
+  text: "When passengers get in the car and do not put their seat belts on, the safest thing to do is -"
+  options:
+    - correct: true
+      value: "Tell them the car has seat belts and they should wear them."
+    - correct: false
+      value: "Say nothing because it's the passengers' responsibility to wear their seat belts."
+    - correct: false
+      value: "Drive slower than you normally would so the passengers are safe."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB017"
+  text: "You want to give a lift to a friend and his four-month-old baby. Before you do, you need to make sure -"
+  options:
+    - correct: true
+      value: "You have a baby restraint properly fitted to your vehicle."
+    - correct: false
+      value: "You have enough seat belts for all the passengers, including the baby."
+    - correct: false
+      value: "Your driver's licence permits you to carry children under the age of twelve months."
+- description: "Seat Belts / Restraints RUH"
+  id: "SB019"
+  text: "You want to fit a baby restraint to your car. What should you secure the restraint to?"
+  options:
+    - correct: true
+      value: "An anchorage point designed for a baby restraint."
+    - correct: false
+      value: "Any seat belt in the back or front of the car."
+    - correct: false
+      value: "Only at the back using the seat belt provided."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB022"
+  text: "You give a friend and her 12-year-old son a lift. Your friend sits in the front, and her son gets in the back. The boy does not put his seat belt on. By law, who has to make sure the child wears his seatbelt?"
+  options:
+    - correct: true
+      value: "You do, because you are the driver."
+    - correct: false
+      value: "Your friend does because she is the parent."
+    - correct: false
+      value: "The child does because it is always the passenger's responsibility."
+
+- description: "Seat Belts / Restraints RUH"
+  id: "SB023"
+  text: "Which of the following statements is correct?"
+  options:
+    - correct: true
+      value: "By law, all occupants of a car (unless exempt) need to be restrained by a properly fitted and adjusted seat belt or a child restraint."
+    - correct: false
+      value: "Occupants in a car fitted with airbags are not required to wear a seat belt."
+    - correct: false
+      value: "Seat belts and child restraints are only required on short trips."
+
+- description: "Speed Limits RUH"
+  id: "SL007"
+  text: "Driving faster than the maximum speed limit is -"
+  options:
+    - correct: true
+      value: "Never legally permitted."
+    - correct: false
+      value: "Permitted only when passing another vehicle."
+    - correct: false
+      value: "Only permitted when other vehicles are going faster than the speed limit."
+
+- description: "Speed Limits RUH"
+  id: "SL015"
+  text: "A Shared Traffic Zone, where pedestrians and other road users can share the road safely has a speed limit of -"
+  options:
+    - correct: true
+      value: "10 Km/h."
+    - correct: false
+      value: "20 Km/h."
+    - correct: false
+      value: "50 Km/h."
+
+- description: "Speed Limits RUH"
+  id: "SL021"
+  text: "You are driving in busy traffic in an 80 km/h zone. It begins to rain lightly. What should you do?"
+  options:
+    - correct: true
+      value: "Slow down to a speed that suits the conditions better."
+    - correct: false
+      value: "Keep going at the same speed because that's how fast the signs tell you to drive."
+    - correct: false
+      value: "Pull over and wait till it stops raining."
+
+- description: "Speed Limits RUH"
+  id: "SL022"
+  text: "You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of your passengers suggests you should keep up with the other traffic. What should you do?"
+  options:
+    - correct: true
+      value: "Decide your speed yourself, based on the speed limit and the conditions."
+    - correct: false
+      value: "Follow the suggestions and keep up with the traffic."
+    - correct: false
+      value: "Speed up to a little bit over the speed limit because everyone does it."
+
+- description: "Speed Limits RUH"
+  id: "SL023"
+  text: "You are driving in busy traffic in a 60 km/h zone. You feel 60 km/h is a bit too fast for the conditions. What should you do?"
+  options:
+    - correct: true
+      value: "Slow down to a speed that suits the conditions."
+    - correct: false
+      value: "Keep up with the other traffic because it's probably safe if the sign says 60 km/h."
+    - correct: false
+      value: "Turn off the busy street and wait for traffic to clear."
+- description: "Speed Limits RUH"
+  id: "SL025"
+  text: "What could be the penalties for driving over the speed limit -"
+  options:
+    - correct: true
+      value: "Fines, demerit points and possibly loss of licence."
+    - correct: false
+      value: "Fines only."
+    - correct: false
+      value: "A letter of warning and a small fine."
+
+- description: "Speed Limits RUH"
+  id: "SL026"
+  text: "Having a radar detector or jammer in your car is against the law -"
+  options:
+    - correct: true
+      value: "No matter what your reason is."
+    - correct: false
+      value: "Only if it is turned on."
+    - correct: false
+      value: "If you purchased it after 1998."
+
+- description: "Speed Limits RUH"
+  id: "SL028"
+  text: "Where there are no speed limit signs, the speed limit is 100 km/h, unless -"
+  options:
+    - correct: true
+      value: "There are street lights along the road."
+    - correct: false
+      value: "The road you are driving on is gravel."
+    - correct: false
+      value: "There's an emergency, which means speed limits don't apply."
+
+- description: "Speed Limits RUH"
+  id: "SL030"
+  text: "When you see this sign you must -"
+  options:
+    - correct: true
+      value: "Not exceed 40 km/h and keep a special lookout for bicycle riders, pedestrians, and children."
+    - correct: false
+      value: "Only enter the street if you live in the local zone."
+    - correct: false
+      value: "Drive at a speed less than 40 km/h if you are not a resident of the local zone."
+
+- description: "Speed Limits RUH"
+  id: "SL031"
+  text: "This sign means you must -"
+  options:
+    - correct: true
+      value: "Share this road with other people and vehicles and not exceed 10 km/h."
+    - correct: false
+      value: "Drive at 10 km/h if there are pedestrians around."
+    - correct: false
+      value: "Reduce your speed to what you think is safe but never below 10 km/h."
+
+- description: "Speed Limits RUH"
+  id: "SL032"
+  text: "It is 9.20am on a school day. You are driving at 60 km/h, the same speed as traffic around you. You pass this sign but the other cars do not slow down much. What should you do?"
+  options:
+    - correct: true
+      value: "Slow down immediately to 40 km/h or less even though other drivers want to go faster."
+    - correct: false
+      value: "Drive at the speed of the other drivers because it is safer to go with the flow of traffic than slow others up."
+    - correct: false
+      value: "Stay at 60 km/h because it is nearly 9.30am and the times on the school sign are only advisory."
+
+- description: "Speed Limits RUH"
+  id: "SL034"
+  text: "Speed limit signs (such as the one shown) tell drivers -"
+  options:
+    - correct: true
+      value: "The maximum speed they are allowed to drive."
+    - correct: false
+      value: "The minimum speed they are allowed to drive."
+    - correct: false
+      value: "The recommended speed they are allowed to drive."
+- description: "Speed Limits RUH"
+  id: "SL035"
+  text: "If you are driving along the highway and come across road works with a reduced speed zone, you must -"
+  options:
+    - correct: true
+      value: "Slow down to the new speed limit."
+    - correct: false
+      value: "Drive through the road works zone as fast as you can to get past it."
+    - correct: false
+      value: "Drive at the same speed as other vehicles."
