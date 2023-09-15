@@ -1,0 +1,753 @@
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL001"
+  text: "You are facing traffic lights (as shown). What do they mean?"
+  options:
+    - correct: true
+      value: "You may proceed only in the direction of the green arrow."
+    - correct: false
+      value: "You may proceed only in the direction of the green arrow when the red light has changed to green."
+    - correct: false
+      value: "You must give way to oncoming traffic."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL002"
+  text: "At traffic lights what is meant when a red light appears?"
+  options:
+    - correct: true
+      value: "Stop, wait behind the stop line until the lights change to green."
+    - correct: false
+      value: "Stop, wait behind the stop line until the lights change to yellow."
+    - correct: false
+      value: "Stop, make sure there is no traffic, then drive straight ahead."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL003"
+  text: "What should you do when approaching traffic lights which change from green to yellow?"
+  options:
+    - correct: true
+      value: "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident."
+    - correct: false
+      value: "Speed up to clear the intersection before the lights change to red."
+    - correct: false
+      value: "Stop, only if a red light camera is in use."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL004"
+  text: "What may you do at an intersection with traffic lights at which this sign is displayed?"
+  options:
+    - correct: true
+      value: "If the lights are red you must first stop, then you may turn left if it is safe to do so."
+    - correct: false
+      value: "You should slow down and check if anyone is coming before turning left."
+    - correct: false
+      value: "You may turn left only if a green arrow is shown."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL005"
+  text: "Are you permitted to make a U-Turn at traffic lights?"
+  options:
+    - correct: true
+      value: "No, unless there is a U-TURN PERMITTED sign at the intersection."
+    - correct: false
+      value: "Yes, at all times."
+    - correct: false
+      value: "Yes, if there is no danger of colliding with another vehicle."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL006"
+  text: "These lights mean that you -"
+  options:
+    - correct: true
+      value: "Can turn left, but not go straight ahead."
+    - correct: false
+      value: "Can turn left or go straight ahead."
+    - correct: false
+      value: "Can turn left only if a sign 'TURN LEFT AT ANY TIME WITH CARE' is displayed."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL007"
+  text: "This light means, you -"
+  options:
+    - correct: true
+      value: "Can go straight ahead, or turn left or turn right, if it is safe to do so."
+    - correct: false
+      value: "Must stop and wait for the red light before proceeding."
+    - correct: false
+      value: "Can make a U turn provided it is safe to do so."
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL008"
+  text: "It is 3 o'clock in the morning. You cannot see any other traffic. You want to turn right. You may -"
+  options:
+    - correct: true
+      value: "Turn right if it is safe to do so."
+    - correct: false
+      value: "Not turn right while the arrow is red."
+    - correct: false
+      value: "Turn right when you have waited one minute."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL010"
+  text: "As you approach an intersection with traffic lights, the yellow light turns to red. You must -"
+  options:
+    - correct: true
+      value: "Stop and wait for the green light."
+    - correct: false
+      value: "Speed up to avoid traffic from the left and right."
+    - correct: false
+      value: "Sound your horn and proceed through the red light."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL011"
+  text: "You approach an intersection showing a red light and the sign shown. You wish to turn left. You must -"
+  options:
+    - correct: true
+      value: "Stop and turn left only if it is safe."
+    - correct: false
+      value: "Stop and wait for a green light."
+    - correct: false
+      value: "Slow down and turn left or right if it is safe."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL012"
+  text: "It is early morning and there is no other traffic about. You approach an intersection when the traffic lights change from green to yellow. What should you do?"
+  options:
+    - correct: true
+      value: "Stop."
+    - correct: false
+      value: "Keep going."
+    - correct: false
+      value: "Drive through and sound your horn."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL013"
+  text: "You are waiting at an intersection and the lights are red. The traffic lights change to green. You should -"
+  options:
+    - correct: true
+      value: "Check both sides of the intersection and then proceed."
+    - correct: false
+      value: "Cross the intersection as quickly as possible."
+    - correct: false
+      value: "Wait until the traffic behind you makes you move."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL014"
+  text: "You want to turn right at an intersection and see this traffic light. You should -"
+  options:
+    - correct: true
+      value: "Stay behind the stop line until the green arrow shows."
+    - correct: false
+      value: "Move forward slowly."
+    - correct: false
+      value: "Enter the intersection and wait for the green arrow."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL015"
+  text: "You wish to turn left at this intersection. The traffic lights are red and you see this sign. You should -"
+  options:
+    - correct: true
+      value: "Stop, then if you see it is safe turn left."
+    - correct: false
+      value: "Stop until the light turns green."
+    - correct: false
+      value: "Stop then go straight ahead."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL016"
+  text: "You wish to turn left at this intersection and the traffic lights are green. What should you do?"
+  options:
+    - correct: true
+      value: "Wait behind the stop line until there is room for you to enter the new road."
+    - correct: false
+      value: "Move forward slowly, make the left turn and wait behind car A."
+    - correct: false
+      value: "Enter the intersection and sound the horn."
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL017"
+  text: "As you approach a set of traffic lights at an intersection, they change from green to yellow (amber). You must -"
+  options:
+    - correct: true
+      value: "Stop before the lights, unless you are so close that sudden braking might cause an accident."
+    - correct: false
+      value: "Drive through the intersection without accelerating."
+    - correct: false
+      value: "Accelerate to clear the intersection before the lights change to red."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL018"
+  text: "Temporary traffic lights at road works -"
+  options:
+    - correct: true
+      value: "Must be obeyed."
+    - correct: false
+      value: "Apply to road works vehicles only."
+    - correct: false
+      value: "Are installed to warn motorists of construction works."
+
+- description: "Traffic Lights / Lanes RUH"
+  id: "TL019"
+  text: "Where do you stop at temporary traffic lights?"
+  options:
+    - correct: true
+      value: "At the ‘Stop here on red signal’ sign."
+    - correct: false
+      value: "Where the lane ends."
+    - correct: false
+      value: "After the traffic lights, but before the construction zone."
+
+- description: "Traffic Signs RUH"
+  id: "SI001"
+  text: "When you see this sign you should -"
+  options:
+    - correct: true
+      value: "Not drive beyond the sign."
+    - correct: false
+      value: "Drive with caution."
+    - correct: false
+      value: "Not pass another vehicle."
+
+- description: "Traffic Signs RUH"
+  id: "SI002"
+  text: "This sign means you should -"
+  options:
+    - correct: true
+      value: "Drive carefully, roundabout ahead."
+    - correct: false
+      value: "Pass to the left of the sign."
+    - correct: false
+      value: "Turn left at next street."
+
+- description: "Traffic Signs RUH"
+  id: "SI003"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Right lane traffic may turn right or go straight ahead at the next intersection."
+    - correct: false- description: "Traffic Signs RUH"
+  id: "SI004"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Traffic travels in each direction."
+    - correct: false
+      value: "No turns permitted."
+    - correct: false
+      value: "Double lane bridge ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI006"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You must not turn to the right."
+    - correct: false
+      value: "You may turn to the right."
+    - correct: false
+      value: "You must give way to traffic on your right."
+
+- description: "Traffic Signs RUH"
+  id: "SI007"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You must not turn to the left."
+    - correct: false
+      value: "You must not turn to the left or the right."
+    - correct: false
+      value: "You must not turn to the right."
+
+- description: "Traffic Signs RUH"
+  id: "SI008"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "All traffic must travel in the direction of the arrow."
+    - correct: false
+      value: "Follow the arrow unless you are turning right."
+    - correct: false
+      value: "Road curves to the left ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI009"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You may travel only in the direction in which the arrow is pointing."
+    - correct: false
+      value: "No left turn."
+    - correct: false
+      value: "One lane bridge ahead, slow down."
+
+- description: "Traffic Signs RUH"
+  id: "SI013"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You are not to exceed 60 km/h."
+    - correct: false
+      value: "You can go faster than 60 km/h."
+    - correct: false
+      value: "You are on Highway 60."
+
+- description: "Traffic Signs RUH"
+  id: "SI014"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You must not drive faster than 100 km/h."
+    - correct: false
+      value: "You must drive faster than 100 km/h."
+    - correct: false
+      value: "The sign applies to truck drivers only, cars can travel at any speed."
+
+- description: "Traffic Signs RUH"
+  id: "SI016"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Drive carefully, and watch out for kangaroos entering the road for the next 30 km."
+    - correct: false
+      value: "Zoo 30 km ahead."
+    - correct: false
+      value: "Nature reserve 30 km ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI017"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left."
+    - correct: false
+      value: "No through road ahead, slow down."
+    - correct: false
+      value: "Tollway ahead, be prepared to stop and pay toll."
+
+- description: "Traffic Signs RUH"
+  id: "SI018"
+  text: "When you see this sign you -"
+  options:
+    - correct: true
+      value: "Must not stop your vehicle at the kerb during the times shown."
+    - correct: false
+      value: "Must not stop here at any time."
+    - correct: false
+      value: "May stop at any time to pick up or drop off passengers."
+
+- description: "Traffic Signs RUH"
+  id: "SI019"
+  text: "You are most likely to find this sign -"
+  options:
+    - correct: true
+      value: "On the approach to a bridge which has room for only two vehicles, slow down and proceed with caution."
+    - correct: false
+      value: "When a bridge is not safe to drive on."
+    - correct: false
+      value: "If there is a footbridge for pedestrians ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI020"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Road may be slippery when wet, slow down and drive carefully."
+    - correct: false
+      value: "Sharp turns in the road ahead."
+    - correct: false
+      value: "Road under repair, drive carefully."
+
+- description: "Traffic Signs RUH"
+  id: "SI021"
+  text: "You are most likely to find this sign -"
+  options:
+    - correct: true
+      value: "As you approach a winding road, slow down and drive with caution."
+    - correct: false
+      value: "If there is a steep hill ahead."
+    - correct: false
+      value: "If an unsealed road is ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI022"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "A sharp depression in the road is ahead, be prepared, slow down."
+    - correct: false
+      value: "Do not drive with your lights on high beam."
+    - correct: false
+      value: "Police station ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI024"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Sharp bend to the right ahead, slow down and drive carefully."
+    - correct: false
+      value: "Turn around and go back, you are going the wrong way."
+    - correct: false
+      value: "No right turn allowed."
+
+- description: "Traffic Signs RUH"
+  id: "SI025"
+  text: "You are most likely to find this sign, where -"
+  options:
+    - correct: true
+      value: "Children may be crossing the road ahead, slow down and be prepared to make a safe stop."
+    - correct: false
+      value: "There is an athletic field ahead."
+    - correct: false
+      value: "Pedestrians are not allowed."
+
+- description: "Traffic Signs RUH"
+  id: "SI026"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians."
+    - correct: false
+      value: "Hospital ahead, drive carefully."
+    - correct: false
+      value: "Cemetery ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI027"
+  text: "If the red lights on this sign are flashing what are you required to do?"
+  options:
+    - correct: true
+      value: "Stop until red lights stop flashing then drive on if it is safe to do so."
+    - correct: false
+      value: "Slow down and drive carefully over the crossing if you cannot see a train approaching."
+    - correct: false
+      value: "Stop until train has passed then proceed immediately."
+
+- description: "Traffic Signs RUH"
+  id: "SI028"
+  text: "You should expect this sign, if -"
+  options:
+    - correct: true
+      value: "A give way sign at an intersection is ahead, slow down and be prepared to stop."
+    - correct: false
+      value: "You are approaching a school or playground."
+    - correct: false
+      value: "You are approaching an intersection with traffic lights, be prepared to stop."
+
+- description: "Traffic Signs RUH"
+  id: "SI030"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Slow down and beware of trucks entering from the side."
+    - correct: false
+      value: "Trucks must use low gear."
+    - correct: false
+      value: "Heavy vehicle checking station ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI031"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Slow down and look out for pedestrians crossing the road ahead."
+    - correct: false
+      value: "Stop and help aged pedestrians across the road."
+    - correct: false
+      value: "Hospital ahead, slow down and proceed with caution."
+
+- description: "Traffic Signs RUH"
+  id: "SI032"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Pedestrian crossing ahead, slow down and be prepared to stop."
+    - correct: false
+      value: "Overhead footbridge for pedestrians ahead."
+    - correct: false
+      value: "Joggers ahead, drive carefully."
+- description: "Traffic Signs RUH"
+  id: "SI033"
+  text: "You should expect this sign -"
+  options:
+    - correct: true
+      value: "When a divided road ends and two-way traffic is ahead."
+    - correct: false
+      value: "If a one-way street is ahead."
+    - correct: false
+      value: "If a one-lane bridge is ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI035"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Workers ahead, slow down and be prepared to stop."
+    - correct: false
+      value: "Children's playground ahead, slow down and be prepared to stop."
+    - correct: false
+      value: "Do not litter."
+
+- description: "Traffic Signs RUH"
+  id: "SI036"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Watch out for bicycle riders along the roadway or when turning."
+    - correct: false
+      value: "Bicycle riders not allowed on the roadway."
+    - correct: false
+      value: "You are approaching a children's playground, slow down."
+
+- description: "Traffic Signs RUH"
+  id: "SI038"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "If traffic lights are out of order or the amber light is flashing, you must stop and give way to traffic as if you are at an intersection with stop signs."
+    - correct: false
+      value: "Stop, red light camera in operation."
+    - correct: false
+      value: "Stop at all times and give way to all traffic."
+
+- description: "Traffic Signs RUH"
+  id: "SI039"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Stop sign ahead, slow down and prepare to stop."
+    - correct: false
+      value: "You are approaching a roundabout, prepare to give way."
+    - correct: false
+      value: "One-way traffic ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI040"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Traffic controller ahead, slow down and be prepared to stop."
+    - correct: false
+      value: "School children crossing the road ahead, prepare to stop."
+    - correct: false
+      value: "Traffic lights out of order, Police on duty ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI041"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Steep down-grade in the road ahead, slow down."
+    - correct: false
+      value: "Road ahead slippery when wet, drive carefully."
+    - correct: false
+      value: "Road under repair, slow down."
+- description: "Traffic Signs RUH"
+  id: "SI042"
+  text: "You should expect this sign when -"
+  options:
+    - correct: true
+      value: "A divided road is ahead, prepare for a change in traffic conditions."
+    - correct: false
+      value: "A two-lane bridge is ahead, slow down and drive carefully."
+    - correct: false
+      value: "Freeway conditions are ahead, maximum speed is 100 km/h."
+
+- description: "Traffic Signs RUH"
+  id: "SI043"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Railway level crossing with flashing signals ahead, slow down, drive carefully, and be prepared to stop."
+    - correct: false
+      value: "Intersection ahead with traffic lights, prepare to stop."
+    - correct: false
+      value: "Red light camera in use at traffic lights ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI045"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Road narrows ahead, slow down and prepare for a change in traffic conditions."
+    - correct: false
+      value: "Form one lane of traffic."
+    - correct: false
+      value: "Merging traffic, give way to your right."
+
+- description: "Traffic Signs RUH"
+  id: "SI046"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Vehicles are not allowed to stop at the kerb except in a medical emergency."
+    - correct: false
+      value: "Vehicles must not stop at the kerb, except if picking up a passenger."
+    - correct: false
+      value: "Vehicles must not stop at the kerb, unless picking up goods."
+
+- description: "Traffic Signs RUH"
+  id: "SI048"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Vehicles carrying three or more people, and motorcycles may use this lane."
+    - correct: false
+      value: "Motor cars carrying one passenger may use this lane."
+    - correct: false
+      value: "This lane is reserved for bicycle riders only."
+
+- description: "Traffic Signs RUH"
+  id: "SI049"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Railway level crossing ahead, slow down and look out for trains, be prepared to stop."
+    - correct: false
+      value: "Cattle or sheep crossing the road ahead, drive slowly."
+    - correct: false
+      value: "Give way sign ahead, slow down and be prepared to stop."
+
+- description: "Traffic Signs RUH"
+  id: "SI050"
+  text: "When you see this sign, you should -"
+  options:
+    - correct: true
+      value: "Drive carefully and watch out for traffic entering from a side-road intersection ahead."
+    - correct: false
+      value: "Take care, trucks crossing the road ahead."
+    - correct: false
+      value: "Take a break, rest area ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI051"
+  text: "When you see this sign you must -"
+  options:
+    - correct: true
+      value: "Stop at the stop line and give way to all traffic."
+    - correct: false
+      value: "Stop at the stop line and give way to all traffic on your right only."
+    - correct: false
+      value: "Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian."
+
+- description: "Traffic Signs RUH"
+  id: "SI052"
+  text: "When you see this sign you must -"
+  options:
+    - correct: true
+      value: "Slow down and be prepared to stop and give way to all traffic if there is any danger of a collision."
+    - correct: false
+      value: "Stop and give way to all traffic even if the intersection is clear."
+    - correct: false
+      value: "Slow down and be prepared to give way to traffic on your right only, if there is any danger of a collision."
+
+- description: "Traffic Signs RUH"
+  id: "SI053"
+  text: "When you see this sign you should -"
+  options:
+    - correct: true
+      value: "Come to a complete stop, look both ways for trains and proceed with caution if no trains are approaching."
+    - correct: false
+      value: "Slow down, then drive slowly over the crossing looking both ways for trains."
+    - correct: false
+      value: "Stop, only if a train is at the crossing."
+
+- description: "Traffic Signs RUH"
+  id: "SI056"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Slow down, the maximum safe speed around the next curve in the road is 35 km/h."
+    - correct: false
+      value: "Winding road ahead for the next 35 km."
+    - correct: false
+      value: "Next main town 35 km to the right."
+
+- description: "Traffic Signs RUH"
+  id: "SI057"
+  text: "When you see this sign you should -"
+  options:
+    - correct: true
+      value: "Slow down and be prepared to stop if the lights start flashing, warning you of an approaching train."
+    - correct: false
+      value: "Continue at the same speed and not look both ways for approaching trains."
+    - correct: false
+      value: "Stop in the middle of the railway tracks and look both ways for approaching trains."
+- description: "Traffic Signs RUH"
+  id: "SI058"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "You must stay in or move to the left lane unless you are overtaking another vehicle."
+    - correct: false
+      value: "You must stay in the left lane and must not overtake any vehicles."
+    - correct: false
+      value: "You can overtake vehicles only on the left side."
+
+- description: "Traffic Signs RUH"
+  id: "SI059"
+  text: "When you see this sign, what must you do?"
+  options:
+    - correct: true
+      value: "Slow down and be ready to stop and give way to a train."
+    - correct: false
+      value: "Stop before the railway crossing, wait for 1 minute and proceed if the crossing is clear."
+    - correct: false
+      value: "Drive quickly over the railway crossing."
+
+- description: "Traffic Signs RUH"
+  id: "SI060"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Slow down, be ready to stop and give way to all vehicles already on the roundabout if there is a danger of a collision."
+    - correct: false
+      value: "All traffic must turn back at the roundabout."
+    - correct: false
+      value: "Stop at all times and give way to all traffic on your right."
+
+- description: "Traffic Signs RUH"
+  id: "SI061"
+  text: "When you see this sign you should -"
+  options:
+    - correct: true
+      value: "Drive carefully, you are reaching the top of the hill and will not be able to see a safe distance in front of you."
+    - correct: false
+      value: "Watch out, the road ahead may be flooded."
+    - correct: false
+      value: "Slow down, there is a dangerous curve ahead."
+
+- description: "Traffic Signs RUH"
+  id: "SI062"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "There is a hump (sudden slope up and down) in the road ahead, slow down."
+    - correct: false
+      value: "There is a tunnel ahead, turn on your headlights."
+    - correct: false
+      value: "The road ahead is closed, go back."
+
+- description: "Traffic Signs RUH"
+  id: "SI063"
+  text: "What does this sign tell you?"
+  options:
+    - correct: true
+      value: "There may be animals on or near the road ahead, slow down and be prepared to stop to avoid collision."
+    - correct: false
+      value: "Animals are crossing the road ahead, stop and wait for directions."
+    - correct: false
+      value: "You are approaching an animal farm."
+
+- description: "Traffic Signs RUH"
+  id: "SI064"
+  text: "What does this sign mean?"
+  options:
+    - correct: true
+      value: "Only vehicles carrying a disabled person and displaying a mobility parking authority may park in this area."
+    - correct: false
+      value: "Motorcyclists may park in this area."
+    - correct: false
+      value: "Vehicles may park in this area for up to ten minutes."
+
+
+      value: "All right lane traffic must turn right at the next intersection."
+    - correct: false
+      value: "One way traffic ahead."
